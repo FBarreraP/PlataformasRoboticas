@@ -238,6 +238,7 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
 <ul>
 	<li> Computador 💻</li>
 	<li> Matlab</li>
+    <li> COPPELIA sim</li>
 	<li> PIC o Arduino</li>
 	<img src="https://www.servotronik.com.co/wp-content/uploads/2019/07/PIC18F4550-1.jpg" alt="PIC18F4550" caption="Hola"/>
     <img src="https://www.makerhero.com/wp-content/uploads/2017/07/1AC01-9-1-min.jpeg" alt="Arduino" caption="Hola"/>
