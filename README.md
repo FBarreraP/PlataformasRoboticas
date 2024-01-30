@@ -47,7 +47,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>27/03/2024</td> <td>2</td> <td>9</td> <td>5</td> <td>Parcial primer corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>28/03/2024</td> <td>2</td> <td>10</td> <td>5</td>Entrega final de laboratorio</td>
+		<td>28/03/2024</td> <td>2</td> <td>10</td> <td>5</td> <td>Entrega final de laboratorio</td>
 	</tr><!--semana de registro de notas del primer corte-->
 
 </table>
@@ -92,7 +92,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>09/04/2024</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>10/04/2024</td> <td>2</td> <td>20</td> <td>10</td>Entrega final de laboratorio</td>
+		<td>10/04/2024</td> <td>2</td> <td>20</td> <td>10</td> <td>Entrega final de laboratorio</td>
 	</tr><!--semana de registro de notas del primer corte-->
 
 </table>
@@ -156,7 +156,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (20%)</td>
 		<td>Parcial</td>
 		<td>10%</td>
-		<td>01/03/2024</td>
+		<td>27/03/2024</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
@@ -168,7 +168,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>15%</td>
-		<td>12/04/2024</td>
+		<td>09/04/2024</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
@@ -179,7 +179,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="3">Tercer (50%)</td>
 		<td>Examen final</td>
 		<td>15%</td>
-		<td>24/05/2024</td>
+		<td>21/05/2024</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
