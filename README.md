@@ -20,26 +20,35 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>26/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>30/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+	</tr>
+    <tr>
+		<td>31/01/2024</td> <td>2</td> <td>2</td> <td>1</td> <td>MCUA (velocidad tangencial y angular)</td>
 	</tr>
 	<tr>
-		<td>02/02/2024</td> <td>2</td> <td>2</td> <td>2</td> <td>Posición y orientación del cuerpo rígido y matrices de rotación</td>
+		<td>06/02/2024</td> <td>2</td> <td>3</td> <td>2</td> <td>Puente H (simulación)</td>
 	</tr>
 	<tr>
-		<td>09/02/2024</td> <td>2</td> <td>3</td> <td>3</td> <td>Matrices de transformación homogénea</td>
+		<td>07/02/2024</td> <td>2</td> <td>4</td> <td>2</td> <td>Cinemática robot diferencial</td>
 	</tr>
 	<tr>
-		<td>16/02/2024</td> <td>2</td> <td>4</td> <td>4</td> <td>Introducción a la cinemática directa</td>
+		<td>13/02/2024</td> <td>2</td> <td>5</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
 	</tr>
 	<tr>
-		<td>23/02/2024</td> <td>2</td> <td>5</td> <td>5</td> <td>Convención Denavit Hartenberg para robots manipuladores</td>
+		<td>14/02/2024</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo de Laboratorio</td>
+	</tr>
+    <tr>
+		<td>20/02/2024</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo de Laboratorio</td>
+	</tr>
+    <tr>
+		<td>21/02/2024</td> <td>2</td> <td>8</td> <td>4</td> <td>Desarrollo de Laboratorio</td>
 	</tr>
 	<tr>
-		<td>01/03/2024</td> <td>2</td> <td>6</td> <td>6</td> <td>Parcial primer corte</td><!--semana de parciales del primer corte-->
-	</tr>
+		<td>27/03/2024</td> <td>2</td> <td>9</td> <td>5</td> <td>Parcial primer corte</td>
+	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>08/03/2024</td> <td>2</td> <td>7</td> <td>7</td> <td> Retroalimentación del parcial primer corte y entrega de notas primer corte</td>
-	</tr><!--última semana de registro de notas del primer corte-->
+		<td>28/03/2024</td> <td>2</td> <td>10</td> <td>5</td>Entrega final de laboratorio<td></td>
+	</tr><!--semana de registro de notas del primer corte-->
 
 </table>
 
@@ -50,23 +59,41 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>15/03/2024</td> <td>2</td> <td>8</td> <td>8</td> <td>Introducción a la cinemática inversa con 2R</td>
+		<td>05/03/2024</td> <td>2</td> <td>11</td> <td>6</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte<br>Propuesta del proyecto</td>
 	</tr>
 	<tr>
-		<td>22/03/2024</td> <td>2</td> <td>9</td> <td>9</td> <td>Cinemática inversa de robot manipulador 3R, rutas y trayectorias</td>
+		<td>06/03/2024</td> <td>2</td> <td>12</td> <td>6</td> <td>Comunicación serial UART (Bluetooth – PIC (Proteus))</td>
 	</tr>
 	<tr>
-		<td>29/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+		<td>12/03/2024</td> <td>2</td> <td>13</td> <td>7</td> <td>Encoder (absoluto y relativo)</td>
 	</tr>
 	<tr>
-		<td>05/04/2024</td> <td>2</td> <td>10</td> <td>10</td> <td>Desacople cinemático 6R</td>
+		<td>13/03/2024</td> <td>2</td> <td>14</td> <td>7</td> <td>Análisis de recorrido</td>
 	</tr>
 	<tr>
-		<td>12/04/2024</td> <td>2</td> <td>11</td> <td>11</td> <td>Parcial segundo corte</td>
-	</tr><!--semana de parciales del segundo corte-->
+		<td>19/03/2024</td> <td>2</td> <td>15</td> <td>8</td> <td>COPPELIA SIM</td>
+	</tr>
+    <tr>
+		<td>20/03/2024</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo de Laboratorio</td>
+	</tr>
+    <tr>
+		<td>26/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+	</tr>
+    <tr>
+		<td>27/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+	</tr>
+    <tr>
+		<td>02/04/2024</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo de Laboratorio</td>
+	</tr>
+    <tr>
+		<td>03/04/2024</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo de Laboratorio</td>
+	</tr>
+    <tr>
+		<td>09/04/2024</td> <td>2</td> <td>19</td> <td>5</td> <td>Parcial segundo corte</td>
+	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>19/04/2024</td> <td>2</td> <td>12</td> <td>12</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
-	</tr><!--última semana de registro de notas del primer corte-->
+		<td>10/04/2024</td> <td>2</td> <td>20</td> <td>5</td>Entrega final de laboratorio<td></td>
+	</tr><!--semana de registro de notas del primer corte-->
 
 </table>
 
