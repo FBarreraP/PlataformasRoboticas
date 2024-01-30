@@ -47,7 +47,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>27/03/2024</td> <td>2</td> <td>9</td> <td>5</td> <td>Parcial primer corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>28/03/2024</td> <td>2</td> <td>10</td> <td>5</td> <td>Entrega final de laboratorio</td>
+		<td>28/03/2024</td> <td>2</td> <td>10</td> <td>5</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte</td>
 	</tr><!--semana de registro de notas del primer corte-->
 
 </table>
@@ -59,7 +59,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>05/03/2024</td> <td>2</td> <td>11</td> <td>6</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte<br>Propuesta de proyecto</td>
+		<td>05/03/2024</td> <td>2</td> <td>11</td> <td>6</td> <td>Propuesta de proyecto</td>
 	</tr>
 	<tr>
 		<td>06/03/2024</td> <td>2</td> <td>12</td> <td>6</td> <td>Comunicación serial UART (Bluetooth – PIC (Proteus))</td>
@@ -90,10 +90,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	</tr>
     <tr>
 		<td>09/04/2024</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
-	</tr><!--semana de parciales del primer corte-->
+	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>10/04/2024</td> <td>2</td> <td>20</td> <td>10</td> <td>Entrega final de laboratorio</td>
-	</tr><!--semana de registro de notas del primer corte-->
+		<td>10/04/2024</td> <td>2</td> <td>20</td> <td>10</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
+	</tr><!--semana de registro de notas del segundo corte-->
 
 </table>
 
@@ -104,7 +104,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>16/04/2024</td> <td>2</td> <td>21</td> <td>11</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segudno corte<br>Avance de proyecto</td>
+		<td>16/04/2024</td> <td>2</td> <td>21</td> <td>11</td> <td>Avance de proyecto</td>
 	</tr>
 	<tr>
 		<td>17/04/2024</td> <td>2</td> <td>22</td> <td>11</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
@@ -137,7 +137,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>21/05/2024</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
 	</tr>
 	<tr>
-		<td>22/05/2024</td> <td>2</td> <td>32</td> <td>16</td> <td>Entrega final de Laboratorio y proyecto</td>
+		<td>22/05/2024</td> <td>2</td> <td>32</td> <td>16</td> <td>Entrega de proyecto</td>
 	</tr>
 
 </table>
@@ -162,7 +162,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>10%</td>
-		<td>09/02/2024<br>16/02/2024<br>23/02/2024</td>
+		<td>14/02/2024<br>20/02/2024<br>21/02/2024</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
@@ -173,7 +173,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>22/03/2024<br>05/04/2024<br></td>
+		<td>20/03/2024<br>02/04/2024<br>03/04/2024</td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (50%)</td>
@@ -184,12 +184,12 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>03/05/2024<br>10/05/2024<br>17/05/2024</td>
+		<td>07/05/2024<br>08/05/2024<br>14/05/2024<br>15/05/2024</td>
 	</tr>
     <tr>
-		<td>Quices y/o laboratorio</td>
+		<td>Proyecto</td>
 		<td>20%</td>
-		<td>03/05/2024<br>10/05/2024<br>17/05/2024</td>
+		<td>22/05/2024</td>
 	</tr>
 </table>
 
