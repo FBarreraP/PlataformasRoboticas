@@ -47,7 +47,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>27/03/2024</td> <td>2</td> <td>9</td> <td>5</td> <td>Parcial primer corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>28/03/2024</td> <td>2</td> <td>10</td> <td>5</td>Entrega final de laboratorio<td></td>
+		<td>28/03/2024</td> <td>2</td> <td>10</td> <td>5</td>Entrega final de laboratorio</td>
 	</tr><!--semana de registro de notas del primer corte-->
 
 </table>
@@ -59,7 +59,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>05/03/2024</td> <td>2</td> <td>11</td> <td>6</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte<br>Propuesta del proyecto</td>
+		<td>05/03/2024</td> <td>2</td> <td>11</td> <td>6</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte<br>Propuesta de proyecto</td>
 	</tr>
 	<tr>
 		<td>06/03/2024</td> <td>2</td> <td>12</td> <td>6</td> <td>Comunicación serial UART (Bluetooth – PIC (Proteus))</td>
@@ -89,10 +89,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>03/04/2024</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo de Laboratorio</td>
 	</tr>
     <tr>
-		<td>09/04/2024</td> <td>2</td> <td>19</td> <td>5</td> <td>Parcial segundo corte</td>
+		<td>09/04/2024</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>10/04/2024</td> <td>2</td> <td>20</td> <td>5</td>Entrega final de laboratorio<td></td>
+		<td>10/04/2024</td> <td>2</td> <td>20</td> <td>10</td>Entrega final de laboratorio</td>
 	</tr><!--semana de registro de notas del primer corte-->
 
 </table>
@@ -100,26 +100,44 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 <h4>Tercer corte</h4>
 
 <table>
-		<tr>
+	<tr>
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>26/04/2024</td> <td>2</td> <td>13</td> <td>13</td> <td>Plataforma diferencial</td>
+		<td>16/04/2024</td> <td>2</td> <td>21</td> <td>11</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segudno corte<br>Avance de proyecto</td>
 	</tr>
 	<tr>
-		<td>03/05/2024</td> <td>2</td> <td>14</td> <td>14</td> <td>Plataforma omnidireccional</td>
+		<td>17/04/2024</td> <td>2</td> <td>22</td> <td>11</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
 	</tr>
 	<tr>
-		<td>10/05/2024</td> <td>2</td> <td>15</td> <td>15</td> <td>Jacobianos</td>
+		<td>23/04/2024</td> <td>2</td> <td>23</td> <td>12</td> <td>CAD (SolidWorks)</td>
 	</tr>
 	<tr>
-		<td>17/05/2024</td> <td>2</td> <td>16</td> <td>16</td> <td>Dudas</td>
+		<td>24/04/2024</td> <td>2</td> <td>24</td> <td>12</td> <td>Plataforma omnidireccional 3 ruedas</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>24/05/2024</td> <td>2</td> <td>17</td> <td>17</td> <td>Examen final</td>
+		<td>30/04/2024</td> <td>2</td> <td>25</td> <td>13</td> <td>COPPELIA SIM</td>
+	</tr>
+    <tr>
+		<td>01/05/2024</td> <td>2</td> <td>26</td> <td>13</td> <td>FESTIVO</td>
+	</tr>
+    <tr>
+		<td>07/05/2024</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo de Laboratorio y proyecto</td>
+	</tr>
+    <tr>
+		<td>08/05/2024</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo de Laboratorio y proyecto</td>
+	</tr>
+    <tr>
+		<td>14/05/2024</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo de Laboratorio y proyecto</td>
+	</tr>
+    <tr>
+		<td>15/05/2024</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo de Laboratorio y proyecto</td>
+	</tr>
+    <tr>
+		<td>21/05/2024</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
 	</tr>
 	<tr>
-		<td>31/05/2024</td> <td>2</td> <td>18</td> <td>18</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
+		<td>22/05/2024</td> <td>2</td> <td>32</td> <td>16</td> <td>Entrega final de Laboratorio y proyecto</td>
 	</tr>
 
 </table>
@@ -135,37 +153,42 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (19.5%)</td>
+		<td rowspan="2">Primer (20%)</td>
 		<td>Parcial</td>
-		<td>12.675%</td>
+		<td>10%</td>
 		<td>01/03/2024</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
-		<td>Quices y/o talleres</td>
-		<td>6.825%</td>
+		<td>Quices y/o laboratorio</td>
+		<td>10%</td>
 		<td>09/02/2024<br>16/02/2024<br>23/02/2024</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Segundo (19.5%)</td>
+		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
-		<td>12.675%</td>
+		<td>15%</td>
 		<td>12/04/2024</td>
 	</tr>
 	<tr>
-		<td>Quices y/o talleres</td>
-		<td>6.825%</td>
+		<td>Quices y/o laboratorio</td>
+		<td>15%</td>
 		<td>22/03/2024<br>05/04/2024<br></td>
 	</tr>
 	<tr>
-		<td rowspan="3">Tercer (20%)</td>
+		<td rowspan="3">Tercer (50%)</td>
 		<td>Examen final</td>
-		<td>12%</td>
+		<td>15%</td>
 		<td>24/05/2024</td>
 	</tr>
 	<tr>
-		<td>Quices y/o talleres</td>
-		<td>8%</td>
+		<td>Quices y/o laboratorio</td>
+		<td>15%</td>
+		<td>03/05/2024<br>10/05/2024<br>17/05/2024</td>
+	</tr>
+    <tr>
+		<td>Quices y/o laboratorio</td>
+		<td>20%</td>
 		<td>03/05/2024<br>10/05/2024<br>17/05/2024</td>
 	</tr>
 </table>
