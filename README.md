@@ -239,8 +239,8 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
 	<li> Computador 💻</li>
 	<li> Matlab</li>
 	<li> PIC o Arduino</li>
-	<img src="" alt="PIC18F4550" caption="Hola"/>
-    <img src="" alt="Arduino" caption="Hola"/>
+	<img src="https://www.microchip.com/content/dam/mchp/mrt-dam/ic-images/pdip/40-lead-s2x/PIC18F4550-S2X-Regular.jpg" alt="PIC18F4550" caption="Hola"/>
+    <img src="https://www.makerhero.com/wp-content/uploads/2017/07/1AC01-9-1-min.jpeg" alt="Arduino" caption="Hola"/>
 	<li> Plataforma diferencial</li>
     <img src="https://down-id.img.susercontent.com/file/4707898d5ce46da11955f0269f3f5468" alt="plataforma diferencial" caption="Hola"/>
 	 <li> Motoreductor DC</li>
