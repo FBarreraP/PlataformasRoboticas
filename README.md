@@ -193,7 +193,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 	</tr>
 </table>
 
-Nota del curso = (***0.195***+0.105)*NotaCorte1 + (***0.195***+0.105)*NotaCorte2 + (***0.2***+0.2)*NotaCorte3
+Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
 
 <h3>OBSERVACIONES ⚠️</h3>
 
@@ -206,7 +206,7 @@ Nota del curso = (***0.195***+0.105)*NotaCorte1 + (***0.195***+0.105)*NotaCorte2
 		<li> Prohibido el uso de celular en quices, parciales y clase 📵</li>
 		<li> Permitidas las salidas al baño 🚻 y a recibir llamadas 📲, en los quices y parciales se debe dejar el celular en el puesto para salir al baño</li>
 		<li> Si no dejan dictar la clase, pasan al tablero a dar la clase o doy la clase por vista 😤</li>
-		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/Teoria_Robotica </li>
+		<li> No es permitido tomar fotos, ni videos en clase 📵. El material de clase está en el siguiente repositorio git: https://github.com/FBarreraP/PlataformasRoboticas </li>
 		<li> Los laboratorios y el proyecto consistirán únicamente de montaje y podrán ser realizados en grupos de máximo 2 estudiantes 🧍‍♂️🧍‍♀️</li>
 		<li> Los montajes realizados en protoboard no son aceptados con jumpers, por tanto, deben ser realizados con cable UTP y no son compartidos, es decir, un montaje por grupo 🤷‍♂️</li>
 		<li> Los talleres se calificarán con rúbricas de 0.0 a 5.0 con intervalo de 1.0; las cuales tendrán diferentes entregables con fechas fijas de entrega y el orden de entrega de los grupos será definida por el profesor 💥</li> 
@@ -216,7 +216,7 @@ Nota del curso = (***0.195***+0.105)*NotaCorte1 + (***0.195***+0.105)*NotaCorte2
 <h4>Observaciones de reglamento estudiantil</h4>
 <ul>
 	<li> Revisión sobre la calificación solamente dentro de los dias (3) establecidos en el reglamento estudiantil </li>
-	<li> Con el 20% de las fallas se pierde la materia</li>
+	<li> Con el 10% de las fallas se pierde la materia</li>
 	<li> Las ausencias a clases donde se saque una calificación se debe presentar la excusa familiar o laboral en la dirección del programa</li>
 </ul>
 
@@ -237,33 +237,25 @@ Nota del curso = (***0.195***+0.105)*NotaCorte1 + (***0.195***+0.105)*NotaCorte2
 <ul>
 	<li> Computador 💻</li>
 	<li> Matlab</li>
-	<li> STM-32</li>
+	<li> PIC o Arduino</li>
 	<img src="https://www.codeinsideout.com/blog/stm32/stm32-nucleo-boards.png" alt="Imagen de Raspberrys Pi 3B y 4B" caption="Hola"/>
 	<li> Plataforma diferencial</li>
     <img src="https://down-id.img.susercontent.com/file/4707898d5ce46da11955f0269f3f5468" alt="plataforma diferencial" caption="Hola"/>
 	 <li> Motoreductor DC</li>
     <img src="https://static.wixstatic.com/media/d96bda_8b8831ef4e0541c1839ac31ecdd8241e~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d96bda_8b8831ef4e0541c1839ac31ecdd8241e~mv2.png" alt="motoreductor" caption="Hola"/>
 	<img src="https://3dbots.co/wp-content/uploads/2023/05/LUXURY-TIRE.jpg" alt="motoreductor" caption="Hola"/>
-	<li> Brazo robótico 5 GDL</li>
-	<img src="https://yorobotics.co/wp-content/uploads/2022/10/BRAZO-ROBOTICO-V2.0-MEJORADO.jpg" alt="brazo robótico 5 GDL" caption="Hola"/>
-	<li> Servomotores SG90 o MG90</li>
-    <img src="https://cdn.shopify.com/s/files/1/0069/0028/5529/files/Servos_fb55bae1-aef3-4bd6-bf0f-f2eff21c849a_large.jpg?v=1565803072" alt="servomotores" caption="Hola"/>
 </ul>
 
 <h3>Bibliografía </h3>
 
 <ul>
-	<li> Siciliano, Bruno; Sciavicco, Lorenzo. Robotics - Modelling, Planning and Control. Springer, 2009.</li> 
-	<li> Peter Corke, Robotics, Vision and Control - Fundamental Algorithms in MATLAB, Springer, 2017.</li>
-	<li> Murray, Richard. A mathematical Introduction to Robotic manipulation</li>
-	<li> Siegwart, Roland. Introduction to Autonomous Mobile Robots</li>
-	<li> Jean Claude Latombe, Robot Motion Planning.</li>
-	<li> Howie Choset, Principles of Robot Motion: Theory, Algorithms, and Implementations</li>
-	<li> Fu King, Gonzales R. Robotics: Control, Sensing, Vision, and Intelligence.</li>
-	<li> Jones, Joseph. Mobile robots, Inspiration to Implementation</li>
-	<li> Niku, Saeed. Introduction to robotics: analysis, systems, applications.</li>
-	<li> Angulo José, Robótica Tecnología y Aplicaciones.</li>
-	<li> Barrientos A. Fundamentos de Robótica.</li>
-	<li> Kelly Rafael, Santibañez Victor. Control de Movimiento de Robots Manipuladores.</li>
-	<li> Ollero, Anibal. Robótica: Manipuladores y Robots Móviles.</li>
+    <li>A. Barrientos, L. F. Peñin, C. Balaguer, and R. Aracil, Fundamentos de Robótica. 1997.</li>
+    <li>A. Ollero, “Robótica. Manipuladores y robots móviles,” Robotica Manipuladores y robots moviles. 2001.</li>
+    <li>J. J. Craig, Introduction to Modern Robotics: Mechanics, Planning, and Control. 2004.</li>
+    <li>. Siegwart, I. R. Nourbakhsh, and D. Scaramuzza, Introduction to Autonomous Mobile Robots. 2011.</li>
+    <li>S. K. Saha, Introducción a la Robótica. 1998.</li>
+    <li>F. Zhang, J. Leitner, M. Milford, B. Upcroft, and P. Corke, “Towards vision-based deep reinforcement learning for robotic motion control,” in Australasian Conference on Robotics and Automation, ACRA, 2015.</li>
+    <li>M. Calisti, G. Picardi, and C. Laschi, “Fundamentals of soft robot locomotion,” Journal of the Royal Society Interface. 2017.</li>
+    <li>B. S. Peters, P. R. Armijo, C. Krause, S. A. Choudhury, and D. Oleynikov, “Review of emerging surgical robotic technology,” Surgical Endoscopy. 2018.</li>
+    <li>R.-C. Weber, M. Bellenberg, and D. Schwarzenberger, “Robotino Manual,” © Festo Didact. GmbH Co, 2010.</li>
 </ul>
