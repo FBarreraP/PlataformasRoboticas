@@ -12,7 +12,8 @@ $$𝑣_𝑓=𝑣_𝑜+𝑎𝑡 (\frac{𝑚}{𝑠})$$
 
 $$𝑥_𝑓=𝑥_𝑜+𝑣_𝑜 𝑡+\frac{1}{2} 𝑎𝑡^{2} (𝑚)$$
 
-<img src="https://www.universoformulas.com/imagenes/fisica/cinematica/ejercicio-1-mrua-dibujo.jpg" alt="https://www.universoformulas.com/fisica/cinematica/movimiento-rectilineo-uniformemente-variado/" caption="Hola"/>
+<img src="https://www.universoformulas.com/imagenes/fisica/cinematica/ejercicio-1-mrua-dibujo.jpg" alt="MRUA caption="Hola"/>
+Fuente: https://www.universoformulas.com/fisica/cinematica/movimiento-rectilineo-uniformemente-variado/"
 
 <h2>MCUA</h2>
 
@@ -27,8 +28,18 @@ $$𝑣_𝑡=𝜔\cdot𝑟$$
 $$$$
 
 ![MCUA](image.png)
+Fuente: https://slidetodoc.com/movimiento-circular-acelerado-la-velocidad-angular-el-movimiento/
 
-<h3>Morfología</h3>
+<h3>Ejercicio 1</h3>
+
+Un carro se desplaza circularmente en torno a un punto de 13m de radio, a 60 RPM y frena en 25 segundos. Calcular:
+
+a) La velocidad tangencial
+b) La aceleración tangencial 
+c) El número de vueltas.
+
+![MCUA](image.png)
+Fuente: https://slidetodoc.com/movimiento-circular-acelerado-la-velocidad-angular-el-movimiento/
 
 
 
