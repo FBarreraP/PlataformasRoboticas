@@ -12,7 +12,7 @@ $$𝑣_𝑓=𝑣_𝑜+𝑎𝑡 (\frac{𝑚}{𝑠})$$
 
 $$𝑥_𝑓=𝑥_𝑜+𝑣_𝑜 𝑡+\frac{1}{2} 𝑎𝑡^{2} (𝑚)$$
 
-<img src="https://www.universoformulas.com/imagenes/fisica/cinematica/ejercicio-1-mrua-dibujo.jpg" alt="MRUA caption="Hola"/>
+<img src="https://www.universoformulas.com/imagenes/fisica/cinematica/ejercicio-1-mrua-dibujo.jpg" alt="MRUA" caption="Hola"/>
 Fuente: https://www.universoformulas.com/fisica/cinematica/movimiento-rectilineo-uniformemente-variado/
 
 <h2>MCUA</h2>
