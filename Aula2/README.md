@@ -15,6 +15,13 @@ $$𝑥_𝑓=𝑥_𝑜+𝑣_𝑜 𝑡+\frac{1}{2} 𝑎𝑡^{2} (𝑚)$$
 <img src="https://www.universoformulas.com/imagenes/fisica/cinematica/ejercicio-1-mrua-dibujo.jpg" alt="MRUA" caption="Hola"/>
 Fuente: https://www.universoformulas.com/fisica/cinematica/movimiento-rectilineo-uniformemente-variado/
 
+<h3>Ejercicio 1</h3>
+
+Calcular:
+
+a) La aceleración tangencial
+b) La distancia recorrida
+
 <h2>MCUA</h2>
 
 El Movimiento Circular Uniformemente Acelerado (MCUA) es el movimiento de un objeto con una trayectoria circular, el cual irá de forma uniforme aumentando o disminuyendo la velocidad, es decir con aceleración angular constante.
@@ -30,7 +37,7 @@ $$$$
 ![MCUA](image.png)
 Fuente: https://slidetodoc.com/movimiento-circular-acelerado-la-velocidad-angular-el-movimiento/
 
-<h3>Ejercicio 1</h3>
+<h3>Ejercicio 2</h3>
 
 Un carro se desplaza circularmente en torno a un punto de 13m de radio, a 60 RPM y frena en 25 segundos. Calcular:
 
@@ -41,7 +48,7 @@ c) El número de vueltas.
 ![MCUA](image.png)
 Fuente: https://slidetodoc.com/movimiento-circular-acelerado-la-velocidad-angular-el-movimiento/
 
-<h3>Ejercicio 2</h3>
+<h3>Ejercicio 3</h3>
 
 La plataforma de la imagen se desplaza del punto P1 a P2 en 4.8s, con una velocidad inicial en las ruedas traseras de 1.5m/s y una velocidad final en las mismas ruedas de 28rad/s. La rueda de la plataforma tiene un radio de 6cm. Determinar:
 
