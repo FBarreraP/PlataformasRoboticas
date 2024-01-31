@@ -35,6 +35,7 @@ $$𝑣_𝑡=𝜔\cdot𝑟$$
 $$$$
 
 ![MCUA](image.png)
+
 Fuente: https://slidetodoc.com/movimiento-circular-acelerado-la-velocidad-angular-el-movimiento/
 
 <h3>Ejercicio 2</h3>
@@ -46,6 +47,7 @@ b) La aceleración tangencial
 c) El número de vueltas.
 
 ![MCUA](image.png)
+
 Fuente: https://slidetodoc.com/movimiento-circular-acelerado-la-velocidad-angular-el-movimiento/
 
 <h3>Ejercicio 3</h3>
