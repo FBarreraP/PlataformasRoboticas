@@ -41,6 +41,13 @@ c) El número de vueltas.
 ![MCUA](image.png)
 Fuente: https://slidetodoc.com/movimiento-circular-acelerado-la-velocidad-angular-el-movimiento/
 
+<h3>Ejercicio 2</h3>
 
+La plataforma de la imagen se desplaza del punto P1 a P2 en 4.8s, con una velocidad inicial en las ruedas traseras de 1.5m/s y una velocidad final en las mismas ruedas de 28rad/s. La rueda de la plataforma tiene un radio de 6cm. Determinar:
 
-<img src="" alt="" caption="Hola"/>
+a) La velocidad angular en RPM
+b) Si la plataforma acelera o desacelera
+c) La distancia entre P1 a P2 (MCUA y MRUA)
+d) El número de vueltas de la rueda
+
+![P1_P2](image-1.png)
