@@ -44,9 +44,11 @@ Fuente: https://slidetodoc.com/movimiento-circular-acelerado-la-velocidad-angula
 
 Un carro se desplaza circularmente en torno a un punto de 13m de radio, a 60 RPM y frena en 25 segundos. Calcular:
 
-a) La velocidad tangencial
-b) La aceleración tangencial 
-c) El número de vueltas.
+<ol type="a">
+  <li>La velocidad tangencial</li>
+  <li>La aceleración tangencial</li>
+  <li>El número de vueltas</li>
+</ol>
 
 ![MCUA](image.png)
 
@@ -56,9 +58,11 @@ Fuente: https://slidetodoc.com/movimiento-circular-acelerado-la-velocidad-angula
 
 La plataforma de la imagen se desplaza del punto P1 a P2 en 4.8s, con una velocidad inicial en las ruedas traseras de 1.5m/s y una velocidad final en las mismas ruedas de 28rad/s. La rueda de la plataforma tiene un radio de 6cm. Determinar:
 
-a) La velocidad angular en RPM
-b) Si la plataforma acelera o desacelera
-c) La distancia entre P1 a P2 (MCUA y MRUA)
-d) El número de vueltas de la rueda
+<ol type="a">
+  <li>La velocidad angular en RPM</li>
+  <li>Si la plataforma acelera o desacelera</li>
+  <li>La distancia entre P1 a P2 (MCUA y MRUA)</li>
+  <li>El número de vueltas de la rueda</li>
+</ol>
 
 ![P1_P2](image-1.png)
