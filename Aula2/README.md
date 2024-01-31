@@ -10,7 +10,7 @@ $$𝑎=𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒 (\frac{𝑚}{𝑠^{2}})$$
 
 $$𝑣_𝑓=𝑣_𝑜+𝑎𝑡 (\frac{𝑚}{𝑠})$$
 
-$$𝑥_𝑓=𝑥_𝑜+𝑣_𝑜 𝑡+1/2 𝑎𝑡^{2}  (𝑚)$$
+$$𝑥_𝑓=𝑥_𝑜+𝑣_𝑜 𝑡+\frac{1}{2} 𝑎𝑡^{2} (𝑚)$$
 
 <img src="https://www.universoformulas.com/imagenes/fisica/cinematica/ejercicio-1-mrua-dibujo.jpg" alt="https://www.universoformulas.com/fisica/cinematica/movimiento-rectilineo-uniformemente-variado/" caption="Hola"/>
 
@@ -20,7 +20,7 @@ El Movimiento Circular Uniformemente Acelerado (MCUA) es el movimiento de un obj
 
 $$𝑎_𝑐=\frac{𝑣_𝑡^{2}}{𝑟}$$
 
-$𝑎_𝑡=𝛼\cdot𝑟$$
+$$𝑎_𝑡=𝛼\cdot𝑟$$
 
 $$𝑣_𝑡=𝜔\cdot𝑟$$
 
