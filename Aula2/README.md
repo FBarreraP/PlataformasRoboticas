@@ -19,8 +19,10 @@ Fuente: https://www.universoformulas.com/fisica/cinematica/movimiento-rectilineo
 
 Calcular:
 
-a) La aceleración tangencial
-b) La distancia recorrida
+<ol type="a">
+  <li>La aceleración tangencial</li>
+  <li>La distancia recorrida</li>
+</ol>
 
 <h2>MCUA</h2>
 
