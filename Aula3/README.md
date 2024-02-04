@@ -4,7 +4,7 @@ Esta clase se basa en entender el funcionamiento del driver de potencia para var
 
 <h2>Puente H</h2>
 
-El puente H para motores DC es un arreglo de cuatro transistores NPN, PNP y/o MOSFET que tienen como objetivo, conmutar el sentido de la corriente sobre el motor DC. Algunos drivers de potencia comerciales y de bajo costo son el L293 y L298, los cuales están conformados por transistores NPN que trabajan en dos estados: a) corte (interruptor abierto) o b) saturación (interruptor cerrado). Los transistores NPN cuando tienen un voltaje positivo en la base funcionan como interruptor cerrado y cuando tienen un voltaje de 0V en la base funcionan como interruptor abierto.
+El puente H para motores DC es un arreglo de cuatro transistores NPN, PNP y/o MOSFET que tienen como objetivo, conmutar el sentido de la corriente sobre el motor DC. Algunos drivers de potencia comerciales y de bajo costo son el L293 y L298, los cuales están conformados por transistores NPN que trabajan en dos estados: a) corte (interruptor abierto) o b) saturación (interruptor cerrado). Los transistores NPN cuando tienen un voltaje positivo en la base funcionan como interruptor cerrado y cuando tienen un voltaje de 0V en la base funcionan como interruptor abierto. En el caso de los transistores PNP el funcionamiento con respecto a los voltajes es inverso a los transistores NPN.
 
 <img src="https://www.inventable.eu/wp-content/uploads/2017/05/motor_dc_sentido_de_giro.png" alt="giros motor DC" caption="Hola"/>
 
@@ -38,7 +38,18 @@ Fuente: https://www.luisllamas.es/arduino-motor-corriente-continua-l298n/
 
 Fuente: https://www.luisllamas.es/arduino-motor-corriente-continua-l298n/
 
-<img src="" alt="" caption="Hola"/>
+Teniendo en cuenta valores de resistencias de precisión (RSA y RSB) muy bajos (ej: 0.05 Ohm) y midiendo los voltajes en los puntos SENS A y SENS B con respecto a tierra, se puede calular la corriente que consume cada motor a través de la Ley de Ohm (I=V/R).
+
+<img src="https://www.inventable.eu/wp-content/uploads/2017/05/L298_internal.png" alt="L298 transistores NPN" caption="Hola"/>
+
+Fuente: https://www.inventable.eu/2017/05/26/funciona-puente-motores-corriente-continua/
+
+<img src="https://www.prometec.net/wp-content/uploads/2016/11/L298N-dos-motores-DC.png" alt="L298 con Arduino" caption="Hola"/>
+
+Fuente: https://www.prometec.net/l298n/
+
+
+
 <img src="" alt="" caption="Hola"/>
 <img src="" alt="" caption="Hola"/>
 
