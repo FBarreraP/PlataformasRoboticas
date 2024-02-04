@@ -72,7 +72,7 @@ Fuente: https://www.tinkercad.com/things/ly13iGzS0FL-2-dc-motors-with-l293d-and-
 
 <h2>Ejercicio 1</h2>
 
-Simular el giro de dos motores DC a través de pulsos y con velocidad constante en 
+Simular en Proteus con los puente H L298 y L293, el giro de dos motores DC a través de pulsos y con velocidad constante
 
 ![Simulación 1](image-1.png)
 
