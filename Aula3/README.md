@@ -60,9 +60,14 @@ Fuente: https://www.instructables.com/How-to-use-the-L293D-Motor-Driver-Arduino-
 
 Fuente: https://www.engineersgarage.com/l293d-pin-description-and-working/
 
+Para entender mejor el comportamiento de un circuito Pull Up o Pull Down, presione en <a href="http://tinyurl.com/25mjhlj9">la simulación</a>
+
+![Pull Up](circuit-20240204-1818.png)
 
 <h2>Ejercicio 1</h2>
 
-Simular el giro de dos motores DC a través de pulsos y con velocidad constante en Proteus
+Simular el giro de dos motores DC a través de pulsos y con velocidad constante en 
+
+![Simulación 1](image-1.png)
 
 
