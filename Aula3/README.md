@@ -22,17 +22,17 @@ Fuente: https://www.inventable.eu/2017/05/26/funciona-puente-motores-corriente-c
 
 PWM es una modulación por ancho de pulso de una señal cuadrada, donde se define un tiempo en alto (Duty Cycle) y un tiempo en bajo. Es utilizado para variar la velocidad de motores DC, la intensidad de leds, etc.
 
-<img src="https://i0.wp.com/descubrearduino.com/wp-content/uploads/2020/04/Técnica-PWM.jpg?w=583&ssl=1" alt="PWM" caption="Hola"/>
+<img src="https://lastminuteengineers.com/wp-content/uploads/arduino/Pulse-Width-Modulation-PWM-Technique-with-Duty-Cycles.png" alt="PWM" caption="Hola"/>
 
-Fuente: https://descubrearduino.com/l293d/
+Fuente: https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/
 
 <h2>L298</h2>
 
 El puente H L298 está conformado por transistores NPN y el cual tiene un salida de 2A por cada canal. 
 
-<img src="https://www.luisllamas.es/wp-content/uploads/2016/05/arduino-l298n-conexion.webp" alt="L298 pinout" caption="Hola"/>
+<img src="https://www.prometec.net/wp-content/uploads/2016/11/Conexiones-L298N.png" alt="L298 pinout" caption="Hola"/>
 
-Fuente: https://www.luisllamas.es/arduino-motor-corriente-continua-l298n/
+Fuente: https://www.prometec.net/l298n/
 
 <img src="https://www.luisllamas.es/wp-content/uploads/2016/05/arduino-l298n-esquema.webp" alt="L298 conexiones eléctricas" caption="Hola"/>
 
@@ -48,10 +48,23 @@ Fuente: https://www.inventable.eu/2017/05/26/funciona-puente-motores-corriente-c
 
 Fuente: https://www.prometec.net/l298n/
 
+<h2>L293</h2>
+
+El puente H L293 está conformado por transistores NPN y PNP, el cual tiene un salida de 0.6A por cada canal. 
+
+<img src="https://content.instructables.com/FVD/1J7K/ICRXPKSO/FVD1J7KICRXPKSO.jpg?auto=webp&frame=1&fit=bounds&md=1f211d1a53c3428e6102ac735d84733d" alt="L293" caption="Hola"/>
+
+Fuente: https://www.instructables.com/How-to-use-the-L293D-Motor-Driver-Arduino-Tutorial/
+
+<img src="https://b2600043.smushcdn.com/2600043/wp-content/uploads/2/2/1/5/22159166/l293d-single-half-h-bridge-channel-equivalent-circuit_2_orig.png?lossy=0&strip=1&webp=1" alt="L293 transistores NPN y PNP" caption="Hola"/>
+
+Fuente: https://www.engineersgarage.com/l293d-pin-description-and-working/
+
+<img src="https://lastminuteengineers.com/wp-content/uploads/arduino/H-Bridge-Working-Motor-Direction-Control-Animation.gif" alt="" caption="Hola"/>
 
 
-<img src="" alt="" caption="Hola"/>
-<img src="" alt="" caption="Hola"/>
+<h2>Ejercicio 1</h2>
+
+Simular el giro de dos motores DC a través de pulsos y con velocidad constante en Proteus
 
 
-<img src="" alt="" caption="Hola"/>
