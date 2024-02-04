@@ -14,9 +14,9 @@ Fuente: https://www.inventable.eu/2017/05/26/funciona-puente-motores-corriente-c
 
 Fuente: https://www.inventable.eu/2017/05/26/funciona-puente-motores-corriente-continua/
 
-![Giros puente H](image.png)
+<img src="https://lastminuteengineers.com/wp-content/uploads/arduino/H-Bridge-Working-Motor-Direction-Control-Animation.gif" alt="" caption="Hola"/>
 
-Fuente: https://www.inventable.eu/2017/05/26/funciona-puente-motores-corriente-continua/
+Fuente: https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/
 
 <h2>PWM</h2>
 
@@ -59,10 +59,6 @@ Fuente: https://www.instructables.com/How-to-use-the-L293D-Motor-Driver-Arduino-
 <img src="https://b2600043.smushcdn.com/2600043/wp-content/uploads/2/2/1/5/22159166/l293d-single-half-h-bridge-channel-equivalent-circuit_2_orig.png?lossy=0&strip=1&webp=1" alt="L293 transistores NPN y PNP" caption="Hola"/>
 
 Fuente: https://www.engineersgarage.com/l293d-pin-description-and-working/
-
-<img src="https://lastminuteengineers.com/wp-content/uploads/arduino/H-Bridge-Working-Motor-Direction-Control-Animation.gif" alt="" caption="Hola"/>
-
-Fuente: https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/
 
 
 <h2>Ejercicio 1</h2>
