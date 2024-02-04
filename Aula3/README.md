@@ -1,6 +1,6 @@
 <h1>Aula 3</h1>
 
-Esta clase se basa en entender el funcionamiento del driver de potencia para variar la velocidad y el giro de un motor DC.
+Esta clase consiste en entender el funcionamiento del driver de potencia para variar la velocidad y el giro de un motor DC.
 
 <h2>Puente H</h2>
 
