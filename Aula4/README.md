@@ -6,6 +6,10 @@ Esta clase consiste en comprender la cinemática directa e inversa de la platafo
 
 Son robots móviles que se componen por un sistema basado en dos ruedas motrices en paralelo, las cuales pueden girar a distinta velocidad.
 
+![Diferencial](image.png)
+
+Fuente: Introduction to Autonomous Mobile Robots. Roland Siegwart and Illah R. Nourbakhsh. 2004
+
 $$𝑉_𝑃=\frac{𝑉_𝐷+𝑉_𝐼}{2}$$
 
 $$𝜔_𝑃=\frac{𝑉_𝐷−𝑉_𝐼}{𝐿}$$
