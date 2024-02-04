@@ -62,6 +62,8 @@ Fuente: https://www.engineersgarage.com/l293d-pin-description-and-working/
 
 <img src="https://lastminuteengineers.com/wp-content/uploads/arduino/H-Bridge-Working-Motor-Direction-Control-Animation.gif" alt="" caption="Hola"/>
 
+Fuente: https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/
+
 
 <h2>Ejercicio 1</h2>
 
