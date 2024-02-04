@@ -64,6 +64,12 @@ Para entender mejor el comportamiento de un circuito Pull Up o Pull Down, presio
 
 ![Pull Up](circuit-20240204-1818.png)
 
+Fuente: https://masterplc.com/simulador/
+
+<img src="https://csg.tinkercad.com/things/ly13iGzS0FL/t725.png?rev=1624564451854000000&s=&v=1&type=cir" alt="L293 con Arduino" caption="Hola"/>
+
+Fuente: https://www.tinkercad.com/things/ly13iGzS0FL-2-dc-motors-with-l293d-and-arduino
+
 <h2>Ejercicio 1</h2>
 
 Simular el giro de dos motores DC a través de pulsos y con velocidad constante en 
