@@ -18,7 +18,7 @@ Fuente: https://www.inventable.eu/2017/05/26/funciona-puente-motores-corriente-c
 
 Fuente: https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/
 
-<h2>PWM</h2>
+<h3>PWM</h3>
 
 PWM es una modulación por ancho de pulso de una señal cuadrada, donde se define un tiempo en alto (Duty Cycle) y un tiempo en bajo. Es utilizado para variar la velocidad de motores DC, la intensidad de leds, etc.
 
@@ -26,7 +26,7 @@ PWM es una modulación por ancho de pulso de una señal cuadrada, donde se defin
 
 Fuente: https://lastminuteengineers.com/l293d-dc-motor-arduino-tutorial/
 
-<h2>L298</h2>
+<h3>L298</h3>
 
 El puente H L298 está conformado por transistores NPN y el cual tiene un salida de 2A por cada canal. 
 
@@ -48,7 +48,7 @@ Fuente: https://www.inventable.eu/2017/05/26/funciona-puente-motores-corriente-c
 
 Fuente: https://www.prometec.net/l298n/
 
-<h2>L293</h2>
+<h3>L293</h3>
 
 El puente H L293 está conformado por transistores NPN y PNP, el cual tiene un salida de 0.6A por cada canal. 
 
@@ -70,7 +70,7 @@ Fuente: https://masterplc.com/simulador/
 
 Fuente: https://www.tinkercad.com/things/ly13iGzS0FL-2-dc-motors-with-l293d-and-arduino
 
-<h2>Ejercicio 1</h2>
+<h3>Ejercicio 1</h3>
 
 Simular en Proteus con los puente H L298 y L293, el giro de dos motores DC a través de pulsos y con velocidad constante
 
