@@ -32,7 +32,7 @@ Teniendo en cuenta que un robot móvil diferencial, gira en la rueda derecha a 7
 
 <h3>Ejercicio 2</h3>
 
-Un robot móvil diferencial, gira en la rueda derecha a 0.35 𝑚/𝑠 y en la rueda izquierda a 0.27 𝑚/𝑠, siendo que el radio de las ruedas es de 5 𝑐𝑚 y el ancho de la plataforma es de 9 𝑐𝑚. Si la plataforma acelera angularmente a −0.1 rad/𝑠^2  en 5𝑠, determinar:
+Un robot móvil diferencial, gira en la rueda derecha a 0.35 𝑚/𝑠 y en la rueda izquierda a 0.27 𝑚/𝑠, siendo que el radio de las ruedas es de 5 𝑐𝑚 y el ancho de la plataforma es de 9 𝑐𝑚. Si la plataforma acelera angularmente a −0.1 rad/$𝑠^2$ en 5𝑠, determinar:
 
 <ol type="a">
     <li>Las velocidades de las ruedas en RPM</li>
