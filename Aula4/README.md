@@ -10,6 +10,8 @@ Son robots móviles que se componen por un sistema basado en dos ruedas motrices
 
 Fuente: Introduction to Autonomous Mobile Robots. Roland Siegwart and Illah R. Nourbakhsh. 2004
 
+La cinemática directa de la plataforma diferencial el cálculo de las velocidades de la plataforma, a partir de las velocidades de las ruedas.
+
 $$𝑉_𝑃=\frac{𝑉_𝐷+𝑉_𝐼}{2}$$
 
 $$𝜔_𝑃=\frac{𝑉_𝐷−𝑉_𝐼}{𝐿}$$
@@ -19,6 +21,12 @@ Aplicando la relación de velocidades $𝑣=𝜔\cdot 𝑟$
 $$𝑉_𝑃=\frac{𝑟_𝑟(𝜔_𝐷+𝜔_𝐼)}{2}$$
 
 $$𝜔_𝑃=\frac{𝑟_𝑟(𝜔_𝐷−𝜔_𝐼)}{𝐿}$$
+
+La cinemática inversa de la plataforma diferencial el cálculo de las velocidades de las ruedas, a partir de las velocidades de la plataforma.
+
+$$𝜔_𝐼=−\frac{𝐿𝜔_𝑃}{2𝑟_𝑟}+\frac{𝑉_𝑃}{𝑟_𝑟}$$
+
+$$𝜔_𝐷=\frac{𝐿𝜔_𝑃}{2𝑟_𝑟}+\frac{𝑉_𝑃}{𝑟_𝑟}$$
 
 <h3>Ejercicio 1</h3>
 
