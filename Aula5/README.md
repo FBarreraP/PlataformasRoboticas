@@ -1,6 +1,6 @@
 <h1>Aula 5</h1>
 
-Esta clase aplicar la cinemática directa e inversa de la plataforma diferencial analizando recorridos por transiciones.
+Esta clase consiste en aplicar la cinemática directa e inversa de la plataforma diferencial analizando recorridos por transiciones.
 
 <h2>Análisis de recorrido por transiciones</h2>
 
