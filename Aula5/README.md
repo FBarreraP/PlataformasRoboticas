@@ -6,9 +6,12 @@ Esta clase aplicar la cinemática directa e inversa de la plataforma diferencial
 
 El análisis de recorrido consiste en analizar cada trayectoria (lineal o angular) de la plataforma robótica, para determinar la posición y la rotación de la misma.
 
-$$𝑉_𝑃≠0 y 𝜔_𝑃=0$$
+<div align="center">
+    $$𝑉_𝑃≠0 y 𝜔_𝑃=0$$
+    $$𝑉_𝑃=0 y 𝜔_𝑃≠0$$
+</div>
 
-$$𝑉_𝑃=0 y 𝜔_𝑃≠0$$
+<br>
 
 $$𝑉_𝑃=\frac{𝑟_𝑟(𝜔_𝐷+𝜔_𝐼)}{2}$$
 
