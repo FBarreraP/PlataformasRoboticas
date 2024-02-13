@@ -4,7 +4,7 @@ Esta clase consiste en aplicar la cinemática directa e inversa de la plataforma
 
 <h2>Análisis de recorrido por transiciones</h2>
 
-El análisis de recorrido consiste en analizar cada trayectoria (lineal o angular) de la plataforma robótica, para determinar la posición y la rotación de la misma.
+El análisis de recorrido consiste en analizar cada trayectoria (lineal o angular) de la plataforma robótica, para determinar la posición y la orientación de la misma.
 
 ![Plataforma diferencial](image.png)
 
