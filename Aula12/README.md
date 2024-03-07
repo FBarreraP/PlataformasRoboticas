@@ -72,7 +72,7 @@ A través de comandos AT es posible configurar el modo de funcionamiento (esclav
 - En este estado, para enviar comandos AT es necesario hacerlo a la velocidad de 38400 baudios, esto es muy útil cuando nos olvidamos la velocidad con la que hemos dejado configurado nuestro modulo.
 - El LED del módulo en este estado parpadea lentamente.
 
-<h3>HC-05 (Modo AT 1)</h3>
+<h3>HC-05</h3>
 
 Los comandos AT pueden ser enviados a través de un monitor serial
 
