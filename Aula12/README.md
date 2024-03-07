@@ -1,6 +1,6 @@
 <h1>Aula 12</h1>
 
-Esta clase consiste en comprender la omunicación serial UART con Bluetooth (HC-05 y HC-06)
+Esta clase consiste en comprender la comunicación serial UART con Bluetooth (HC-05 y HC-06)
 
 <h2>Comunicación serial UART</h2>
 
