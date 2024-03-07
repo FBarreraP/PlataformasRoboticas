@@ -76,24 +76,24 @@ A través de comandos AT es posible configurar el modo de funcionamiento (esclav
 
 Los comandos AT pueden ser enviados a través de un monitor serial
 
-1. Test de comunicación: 
-Enviar: AT
+1. Test de comunicación: <br>
+Enviar: AT <br>
+Respuesta: OK 
+
+2. Configurar el nombre del módulo HC-05: <br>
+Enviar: AT+NAME=<Nombre> (ej: AT+NAME=Bob) <br>
 Respuesta: OK
 
-2. Configurar el nombre del módulo HC-05: 
-Enviar: AT+NAME=<Nombre> (ej: AT+NAME=Bob)
+3. Configurar clave: <br>
+Enviar: AT+PSWD=<"Pin">   (ej: AT+PSWD="2560”)<br>
 Respuesta: OK
 
-3. Configurar clave: 
-Enviar: AT+PSWD=<"Pin">   (ej: AT+PSWD="2560”)
+4. Configurar la velocidad de comunicación:<br>
+Enviar: AT+UART=<Baud> ,< StopBit>,< Parity> (ej: AT+UART=9600,0,0)<br>
 Respuesta: OK
 
-4. Configurar la velocidad de comunicación:
-Enviar: AT+UART=<Baud> ,< StopBit>,< Parity> (ej: AT+UART=9600,0,0)
-Respuesta: OK
-
-5. Configurar el modo (maestro(1) o esclavo(0)): 
-Enviar: AT+ROLE=<Role> (ej: AT+ROLE=0)
+5. Configurar el modo (maestro(1) o esclavo(0)): <br>
+Enviar: AT+ROLE=<Role> (ej: AT+ROLE=0)<br>
 Respuesta: OK
 
 <h3>Ejercicio 1</h3>
