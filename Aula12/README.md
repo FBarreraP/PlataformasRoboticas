@@ -84,6 +84,21 @@ Respuesta: OK
 Enviar: AT+NAME=<Nombre> (ej: AT+NAME=Bob)
 Respuesta: OK
 
+3. Configurar clave: 
+Enviar: AT+PSWD=<"Pin">   (ej: AT+PSWD="2560”)
+Respuesta: OK
+
+4. Configurar la velocidad de comunicación:
+Enviar: AT+UART=<Baud> ,< StopBit>,< Parity> (ej: AT+UART=9600,0,0)
+Respuesta: OK
+
+5. Configurar el modo (maestro(1) o esclavo(0)): 
+Enviar: AT+ROLE=<Role> (ej: AT+ROLE=0)
+Respuesta: OK
+
+<h3>Ejercicio 1</h3>
+
+![Ejercicio 1](image-6.png)
 
 
 
