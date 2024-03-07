@@ -30,7 +30,7 @@ $$𝑇_𝑏 = 104.167 𝜇𝑠$$
 
 Fuente: https://deepbluembedded.com/usb-ttl-converter-tutorial-pc-control-for-microcontrollers/
 
-<b>*+5V del PIC puede conectarse a una fuente externa o a los +5V del FTDI</b>
+<b>*+5V del PIC puede conectarse a una fuente externa o a los +5V del FTDI (NO RECOMENDADO)</b>
 
 <h3>HC-05 - PIC</h3>
 
