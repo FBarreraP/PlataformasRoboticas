@@ -24,7 +24,7 @@ El encoder absoluto permite conocer la posición y la velocidad angular del eje 
 
 $$𝑅𝑒𝑠𝑜𝑙𝑢𝑐𝑖ó𝑛=\frac{360°}{2^𝑛}$$
 
-$$Á𝑛𝑔𝑢𝑙𝑜=\frac{𝑑𝑒𝑐𝑖𝑚𝑎𝑙/dot360°}{2^𝑛}$$
+$$Á𝑛𝑔𝑢𝑙𝑜=\frac{𝑑𝑒𝑐𝑖𝑚𝑎𝑙\dot360°}{2^𝑛}$$
 
 ![ROUNDSS RDE58S](image-3.png)
 
@@ -52,6 +52,28 @@ $$Á𝑛𝑔𝑢𝑙𝑜=\frac{𝑝𝑢𝑙𝑠𝑜𝑠\cdot360°}{𝑝𝑝𝑟}
 
 $$𝜔=\frac{\frac{1}{𝑇}\cdot60}{𝑝𝑝𝑟}$$
 
+![OMRON E6B2](image-9.png)
 
+![Tabla OMRON E6B2](image-11.png)
 
+![Herradura Arduino](image-10.png)
 
+![Tabla Herradura Arduino](image-12.png)
+
+![Flancos encoder](Encoder.png)
+
+<h3>Ejercicio 1</h3>
+
+Cuál es la posición angular de dos encoder absolutos de 10 y 16 bits?, si el valor decimal es 980.
+
+<h3>Ejercicio 2</h3>
+
+Cuál es el valor decimal de dos encoder absolutos de 10 y 16 bits?, si la posición angular es 58.62°
+
+<h3>Ejercicio 3</h3>
+
+Cuál es la posición angular de dos encoder incrementales de 250 y 30 ppr?, si el valor de pulsos es 481.
+
+<h3>Ejercicio 4</h3>
+
+Cuál es el valor de los pulsos de dos encoder incrementales de 250 y 30 ppr?, si la posición angular es 45.21°
