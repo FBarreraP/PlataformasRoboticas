@@ -1,6 +1,6 @@
 <h1>Aula 13</h1>
 
-Esta clase consiste en comprender 
+Esta clase consiste en comprender los encoders absolutos e incrementales.
 
 <h2>Encoder</h2>
 
