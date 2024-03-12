@@ -24,7 +24,7 @@ El encoder absoluto permite conocer la posición y la velocidad angular del eje 
 
 $$𝑅𝑒𝑠𝑜𝑙𝑢𝑐𝑖ó𝑛=\frac{360°}{2^𝑛}$$
 
-$$Á𝑛𝑔𝑢𝑙𝑜=\frac{𝑑𝑒𝑐𝑖𝑚𝑎𝑙\dot360°}{2^𝑛}$$
+$$Á𝑛𝑔𝑢𝑙𝑜=\frac{𝑑𝑒𝑐𝑖𝑚𝑎𝑙\cdot360°}{2^𝑛}$$
 
 ![ROUNDSS RDE58S](image-3.png)
 
