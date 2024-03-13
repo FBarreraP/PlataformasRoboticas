@@ -6,15 +6,15 @@ Esta clase consiste en aplicar la cinemática directa e inversa de la plataforma
 
 El análisis de recorrido por trayectorias consiste en analizar una trayectoria circular de la plataforma robótica, linealizando dicha trayectoria a través de puntos intermedios equidistantes en tiempo, para determinar la posición y la orientación de la misma.
 
-![Plataforma diferencial](image.png)
-
-Fuente: Introduction to Autonomous Mobile Robots. Roland Siegwart and Illah R. Nourbakhsh. 2004
-
 $𝑉_𝑃≠0$ y $𝜔_𝑃≠0$ 
 
 $𝑉_𝑃=\frac{𝑟_𝑟(𝜔_𝐷+𝜔_𝐼)}{2}$ y $𝜔_𝑃=\frac{𝑟_𝑟(𝜔_𝐷−𝜔_𝐼)}{𝐿}$
 
 $𝜔_𝐼=−\frac{𝐿𝜔_𝑃}{2𝑟_𝑟}+\frac{𝑉_𝑃}{𝑟_𝑟}$ y $𝜔_𝐷=\frac{𝐿𝜔_𝑃}{2𝑟_𝑟}+\frac{𝑉_𝑃}{𝑟_𝑟}$
+
+![Plataforma diferencial](image.png)
+
+Fuente: Introduction to Autonomous Mobile Robots. Roland Siegwart and Illah R. Nourbakhsh. 2004
 
 $$𝑉_𝑃=\frac{∆𝑑}{∆𝑡}=\frac{𝑑_1−𝑑_0}{∆𝑡}$$
 
@@ -26,9 +26,9 @@ $$𝑌_𝑘=𝑌_{𝑘−1}+𝑉_{𝑃𝑌_{𝑘−1}} \cdot ∆𝑡$$
 
 $$𝜃_𝑘=𝜃_{𝑘−1}+𝜔_𝑃 \cdot ∆𝑡$$
 
-$$𝑉_{𝑃𝑋_𝑘}=𝑉_𝑃 \cdot cos⁡𝜃_𝑘$$
+$$𝑉_{𝑃_{𝑋_𝑘}}=𝑉_𝑃 \cdot cos⁡𝜃_𝑘$$
 
-$$𝑉_{𝑃𝑌_𝑘}=𝑉_𝑃 \cdot sin𝜃_𝑘$$
+$$𝑉_{𝑃_{𝑌_𝑘}}=𝑉_𝑃 \cdot sin𝜃_𝑘$$
 
 <h3>Ejercicio 1</h3>
 
