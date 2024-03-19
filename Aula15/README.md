@@ -10,7 +10,7 @@ https://coppeliarobotics.com
 
 <h3>Ejemplo 1</h3>
 
-![Cuadrado](URSim_Cuadrado.png)
+![Ejemplo 1](image.png)
 
 ```lua
 function sysCall_init()
