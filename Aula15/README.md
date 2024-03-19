@@ -12,6 +12,8 @@ https://coppeliarobotics.com
 
 ![Ejemplo 1](image.png)
 
+El código de este ejemplo está corriendo en la versión 4.2.0 (64 bits), sin embargo, en las versiones más actuales de COPPELIA SIM no existen las mismas funciones
+
 ```lua
 function sysCall_init()
     corout=coroutine.create(coroutineMain)
@@ -28,7 +30,7 @@ end
 
 function coroutineMain()
     -- Put some initialization code here
-    r=0.05;
+    r=0.05;.
     L=0.25;
     Robot = sim.getObjectHandle('Bob') 
     MI = sim.getObjectHandle('Bob_leftMotor')
