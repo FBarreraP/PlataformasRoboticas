@@ -30,35 +30,33 @@ function coroutineMain()
     -- Put some initialization code here
     r=0.05;
     L=0.25;
-    WD = 3
-    WI = 3    
     Robot = sim.getObjectHandle('Bob') 
     MI = sim.getObjectHandle('Bob_leftMotor')
     MD = sim.getObjectHandle('Bob_rightMotor')
     --Transicion 1
-    Vp = 0.1
-    Wp = 0
+    Vp = 0.1;
+    Wp = 0;
     VW = VelocityWheels(Vp,Wp,r,L)
     sim.setJointTargetVelocity(MI,VW[2])--1 rad/s
     sim.setJointTargetVelocity(MD,VW[1])--1 rad/s
     sim.wait(20)
     --Transicion 2
-    Vp = 0
-    Wp = (math.pi/4)/5
+    Vp = 0;
+    Wp = (math.pi/4)/5;
     VW = VelocityWheels(Vp,Wp,r,L)
     sim.setJointTargetVelocity(MI,VW[2])--1 rad/s
     sim.setJointTargetVelocity(MD,VW[1])--1 rad/s
     sim.wait(5)
     --Transicion 3
-    Vp = 0.1
-    Wp = 0
+    Vp = 0.1;
+    Wp = 0;
     VW = VelocityWheels(Vp,Wp,r,L)
     sim.setJointTargetVelocity(MI,VW[2])--1 rad/s
     sim.setJointTargetVelocity(MD,VW[1])--1 rad/s
     sim.wait(7)
     --Frenado
-    Vp = 0
-    Wp = 0
+    Vp = 0;
+    Wp = 0;
     VW = VelocityWheels(Vp,Wp,r,L)
     sim.setJointTargetVelocity(MI,VW[2])--1 rad/s
     sim.setJointTargetVelocity(MD,VW[1])--1 rad/s
