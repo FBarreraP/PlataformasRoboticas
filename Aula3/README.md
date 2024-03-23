@@ -56,7 +56,7 @@ El puente H L293 está conformado por transistores NPN y PNP, el cual tiene un s
 
 Fuente: https://www.instructables.com/How-to-use-the-L293D-Motor-Driver-Arduino-Tutorial/
 
-<img src="https://b2600043.smushcdn.com/2600043/wp-content/uploads/2/2/1/5/22159166/l293d-single-half-h-bridge-channel-equivalent-circuit_2_orig.png?lossy=0&strip=1&webp=1" alt="L293 transistores NPN y PNP" caption="Hola"/>
+![L293 transistores](image-2.png)
 
 Fuente: https://www.engineersgarage.com/l293d-pin-description-and-working/
 
