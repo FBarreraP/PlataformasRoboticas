@@ -1,4 +1,4 @@
-<h1>Aula 8</h1>
+<h1>Aula 23</h1>
 
 Esta clase consiste en diseñar piezas en SolidWorks teniendo en cuenta la proyección isométrica y en realizar un ensamble en SolidWorks teniendo en cuenta diferentes relaciones de posición.
 
