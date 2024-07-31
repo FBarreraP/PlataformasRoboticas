@@ -38,10 +38,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>15/08/2024</td> <td>2</td> <td>6</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
 	</tr>
     <tr>
-		<td>21/08/2024</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo de Laboratorio</td>
+		<td>21/08/2024</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
-		<td>22/08/2024</td> <td>2</td> <td>8</td> <td>4</td> <td>Desarrollo de Laboratorio</td>
+		<td>22/08/2024</td> <td>2</td> <td>8</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
 	<tr>
 		<td>28/08/2024</td> <td>2</td> <td>9</td> <td>5</td> <td>Parcial primer corte</td>
@@ -74,13 +74,13 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>18/09/2024</td> <td>2</td> <td>15</td> <td>8</td> <td>COPPELIA SIM</td>
 	</tr>
     <tr>
-		<td>19/09/2024</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo de Laboratorio</td>
+		<td>19/09/2024</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
-		<td>25/09/2024</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo de Laboratorio</td>
+		<td>25/09/2024</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
-		<td>26/09/2024</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo de Laboratorio</td>
+		<td>26/09/2024</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
 		<td>02/10/2024</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
@@ -113,25 +113,25 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>23/10/2024</td> <td>2</td> <td>25</td> <td>13</td> <td>COPPELIA SIM</td>
 	</tr>
     <tr>
-		<td>24/10/2024</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo de Laboratorio y proyecto</td>
+		<td>24/10/2024</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
 	</tr>
     <tr>
-		<td>30/10/2024</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo de Laboratorio y proyecto</td>
+		<td>30/10/2024</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
 	</tr>
     <tr>
-		<td>31/10/2024</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo de Laboratorio y proyecto</td>
+		<td>31/10/2024</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
 	</tr>
     <tr>
-		<td>06/11/2024</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo de Laboratorio y proyecto</td>
+		<td>06/11/2024</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
 	</tr>
     <tr>
-		<td>07/11/2024</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo de Laboratorio y proyecto</td>
+		<td>07/11/2024</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
 	</tr>
     <tr>
 		<td>13/11/2024</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
 	</tr>
 	<tr>
-		<td>14/11/2024</td> <td>2</td> <td>32</td> <td>16</td> <td>Entrega de proyecto</td>
+		<td>14/11/2024</td> <td>2</td> <td>32</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
 	</tr>
 
 </table>
