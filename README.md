@@ -20,34 +20,34 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>30/01/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>31/07/2024</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
     <tr>
-		<td>31/01/2024</td> <td>2</td> <td>2</td> <td>1</td> <td>MCUA (velocidad tangencial y angular)</td>
+		<td>01/08/2024</td> <td>2</td> <td>2</td> <td>1</td> <td>MCUA (velocidad tangencial y angular)</td>
 	</tr>
 	<tr>
-		<td>06/02/2024</td> <td>2</td> <td>3</td> <td>2</td> <td>Puente H (simulación)</td>
+		<td>07/08/2024</td> <td>2</td> <td>3</td> <td>2</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>07/02/2024</td> <td>2</td> <td>4</td> <td>2</td> <td>Cinemática robot diferencial</td>
+		<td>08/08/2024</td> <td>2</td> <td>4</td> <td>2</td> <td>Puente H (simulación)</td>
 	</tr>
 	<tr>
-		<td>13/02/2024</td> <td>2</td> <td>5</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
+		<td>14/08/2024</td> <td>2</td> <td>5</td> <td>3</td> <td>Cinemática robot diferencial</td>
 	</tr>
 	<tr>
-		<td>14/02/2024</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo de Laboratorio</td>
+		<td>15/08/2024</td> <td>2</td> <td>6</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
 	</tr>
     <tr>
-		<td>20/02/2024</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo de Laboratorio</td>
+		<td>21/08/2024</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo de Laboratorio</td>
 	</tr>
     <tr>
-		<td>21/02/2024</td> <td>2</td> <td>8</td> <td>4</td> <td>Desarrollo de Laboratorio</td>
+		<td>22/08/2024</td> <td>2</td> <td>8</td> <td>4</td> <td>Desarrollo de Laboratorio</td>
 	</tr>
 	<tr>
-		<td>27/02/2024</td> <td>2</td> <td>9</td> <td>5</td> <td>Parcial primer corte</td>
+		<td>28/08/2024</td> <td>2</td> <td>9</td> <td>5</td> <td>Parcial primer corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>28/02/2024</td> <td>2</td> <td>10</td> <td>5</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte</td>
+		<td>29/08/2024</td> <td>2</td> <td>10</td> <td>5</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte</td>
 	</tr><!--semana de registro de notas del primer corte-->
 
 </table>
@@ -59,40 +59,34 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>05/03/2024</td> <td>2</td> <td>11</td> <td>6</td> <td>Propuesta de proyecto</td>
+		<td>04/09/2024</td> <td>2</td> <td>11</td> <td>6</td> <td>Propuesta de proyecto</td>
 	</tr>
 	<tr>
-		<td>06/03/2024</td> <td>2</td> <td>12</td> <td>6</td> <td>Comunicación serial UART (Bluetooth – PIC (Proteus))</td>
+		<td>05/09/2024</td> <td>2</td> <td>12</td> <td>6</td> <td>Comunicación serial UART (Bluetooth – PIC (Proteus))</td>
 	</tr>
 	<tr>
-		<td>12/03/2024</td> <td>2</td> <td>13</td> <td>7</td> <td>Encoder (absoluto y relativo)</td>
+		<td>11/09/2024</td> <td>2</td> <td>13</td> <td>7</td> <td>Encoder (absoluto y relativo)</td>
 	</tr>
 	<tr>
-		<td>13/03/2024</td> <td>2</td> <td>14</td> <td>7</td> <td>Análisis de recorrido</td>
+		<td>12/09/2024</td> <td>2</td> <td>14</td> <td>7</td> <td>Análisis de recorrido</td>
 	</tr>
 	<tr>
-		<td>19/03/2024</td> <td>2</td> <td>15</td> <td>8</td> <td>COPPELIA SIM</td>
+		<td>18/09/2024</td> <td>2</td> <td>15</td> <td>8</td> <td>COPPELIA SIM</td>
 	</tr>
     <tr>
-		<td>20/03/2024</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo de Laboratorio</td>
+		<td>19/09/2024</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo de Laboratorio</td>
 	</tr>
     <tr>
-		<td>26/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+		<td>25/09/2024</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo de Laboratorio</td>
 	</tr>
     <tr>
-		<td>27/03/2024</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
+		<td>26/09/2024</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo de Laboratorio</td>
 	</tr>
     <tr>
-		<td>02/04/2024</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo de Laboratorio</td>
-	</tr>
-    <tr>
-		<td>03/04/2024</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo de Laboratorio</td>
-	</tr>
-    <tr>
-		<td>09/04/2024</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
+		<td>02/10/2024</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>10/04/2024</td> <td>2</td> <td>20</td> <td>10</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
+		<td>03/10/2024</td> <td>2</td> <td>20</td> <td>10</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
 	</tr><!--semana de registro de notas del segundo corte-->
 
 </table>
@@ -104,40 +98,40 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>16/04/2024</td> <td>2</td> <td>21</td> <td>11</td> <td>Avance de proyecto</td>
+		<td>09/10/2024</td> <td>2</td> <td>21</td> <td>11</td> <td>Avance de proyecto</td>
 	</tr>
 	<tr>
-		<td>17/04/2024</td> <td>2</td> <td>22</td> <td>11</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
+		<td>10/10/2024</td> <td>2</td> <td>22</td> <td>11</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
 	</tr>
 	<tr>
-		<td>23/04/2024</td> <td>2</td> <td>23</td> <td>12</td> <td>CAD (SolidWorks)</td>
+		<td>16/10/2024</td> <td>2</td> <td>23</td> <td>12</td> <td>CAD (SolidWorks)</td>
 	</tr>
 	<tr>
-		<td>24/04/2024</td> <td>2</td> <td>24</td> <td>12</td> <td>Plataforma omnidireccional 3 ruedas</td>
+		<td>17/10/2024</td> <td>2</td> <td>24</td> <td>12</td> <td>Plataforma omnidireccional 3 ruedas</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>30/04/2024</td> <td>2</td> <td>25</td> <td>13</td> <td>COPPELIA SIM</td>
+		<td>23/10/2024</td> <td>2</td> <td>25</td> <td>13</td> <td>COPPELIA SIM</td>
 	</tr>
     <tr>
-		<td>01/05/2024</td> <td>2</td> <td>26</td> <td>13</td> <td>FESTIVO</td>
+		<td>24/10/2024</td> <td>2</td> <td>26</td> <td>13</td> <td>FESTIVO</td>
 	</tr>
     <tr>
-		<td>07/05/2024</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo de Laboratorio y proyecto</td>
+		<td>30/10/2024</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo de Laboratorio y proyecto</td>
 	</tr>
     <tr>
-		<td>08/05/2024</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo de Laboratorio y proyecto</td>
+		<td>31/10/2024</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo de Laboratorio y proyecto</td>
 	</tr>
     <tr>
-		<td>14/05/2024</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo de Laboratorio y proyecto</td>
+		<td>06/11/2024</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo de Laboratorio y proyecto</td>
 	</tr>
     <tr>
-		<td>15/05/2024</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo de Laboratorio y proyecto</td>
+		<td>07/11/2024</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo de Laboratorio y proyecto</td>
 	</tr>
     <tr>
-		<td>21/05/2024</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
+		<td>13/11/2024</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
 	</tr>
 	<tr>
-		<td>22/05/2024</td> <td>2</td> <td>32</td> <td>16</td> <td>Entrega de proyecto</td>
+		<td>14/11/2024</td> <td>2</td> <td>32</td> <td>16</td> <td>Entrega de proyecto</td>
 	</tr>
 
 </table>
