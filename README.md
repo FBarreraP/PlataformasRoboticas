@@ -113,7 +113,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>23/10/2024</td> <td>2</td> <td>25</td> <td>13</td> <td>COPPELIA SIM</td>
 	</tr>
     <tr>
-		<td>24/10/2024</td> <td>2</td> <td>26</td> <td>13</td> <td>FESTIVO</td>
+		<td>24/10/2024</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo de Laboratorio y proyecto</td>
 	</tr>
     <tr>
 		<td>30/10/2024</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo de Laboratorio y proyecto</td>
