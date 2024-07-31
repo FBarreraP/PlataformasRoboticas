@@ -150,40 +150,40 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (20%)</td>
 		<td>Parcial</td>
 		<td>10%</td>
-		<td>27/03/2024</td>
+		<td>28/08/2024</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>10%</td>
-		<td>14/02/2024<br>20/02/2024<br>21/02/2024</td>
+		<td>21/08/2024<br>22/08/2024</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>15%</td>
-		<td>09/04/2024</td>
+		<td>02/10/2024</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>20/03/2024<br>02/04/2024<br>03/04/2024</td>
+		<td>19/09/2024<br>25/09/2024<br>26/09/2024</td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (50%)</td>
 		<td>Examen final</td>
 		<td>15%</td>
-		<td>21/05/2024</td>
+		<td>13/11/2024</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>07/05/2024<br>08/05/2024<br>14/05/2024<br>15/05/2024</td>
+		<td>30/10/2024<br>31/10/2024<br>06/11/2024<br>07/11/2024</td>
 	</tr>
     <tr>
 		<td>Proyecto</td>
 		<td>20%</td>
-		<td>22/05/2024</td>
+		<td>14/11/2024</td>
 	</tr>
 </table>
 
