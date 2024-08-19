@@ -104,19 +104,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>10/10/2024</td> <td>2</td> <td>22</td> <td>11</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
 	</tr>
 	<tr>
-		<td>16/10/2024</td> <td>2</td> <td>23</td> <td>12</td> <td>CAD (SolidWorks)</td>
+		<td>16/10/2024</td> <td>2</td> <td>23</td> <td>12</td> <td>CONGRESO DE INGENIERÍA ECCI</td>
 	</tr>
 	<tr>
-		<td>17/10/2024</td> <td>2</td> <td>24</td> <td>12</td> <td>Plataforma omnidireccional 3 ruedas</td>
+		<td>17/10/2024</td> <td>2</td> <td>24</td> <td>12</td> <td>CONGRESO DE INGENIERÍA ECCI</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>23/10/2024</td> <td>2</td> <td>25</td> <td>13</td> <td>COPPELIA SIM</td>
+		<td>23/10/2024</td> <td>2</td> <td>25</td> <td>13</td> <td>CAD (SolidWorks) </td>
 	</tr>
     <tr>
-		<td>24/10/2024</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
+		<td>24/10/2024</td> <td>2</td> <td>26</td> <td>13</td> <td>Plataforma omnidireccional 3 ruedas</td>
 	</tr>
     <tr>
-		<td>30/10/2024</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
+		<td>30/10/2024</td> <td>2</td> <td>27</td> <td>14</td> <td>COPPELIA SIM</td>
 	</tr>
     <tr>
 		<td>31/10/2024</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
