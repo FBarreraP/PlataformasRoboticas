@@ -1,20 +1,3 @@
-<h1>Aula 15</h1>
-
-Esta clase consiste en simular en COPPELIA SIM el comportamiento de la plataforma diferencial, teniendo en cuenta sus cinemáticas directa e inversa.
-
-<h2>COPPELIA SIM</h2>
-
-COPPELIA SIM es un simulador de robótica que permite tener en cuenta las físicas de los objetos.
-
-https://coppeliarobotics.com
-
-<h3>Ejemplo</h3>
-
-![Ejemplo](image.png)
-
-El código de este ejemplo está corriendo en la versión 4.2.0 (64 bits), sin embargo, en las versiones más actuales de COPPELIA SIM no existen las mismas funciones
-
-```lua
 function sysCall_init()
     corout=coroutine.create(coroutineMain)
 end
@@ -83,5 +66,3 @@ function VelocityWheels(Vp,Wp,r,L)
     V[2] = (Vp/r) - ((L*Wp)/(2*r))--Rueda izquierda
     return V
 end
-
-```
