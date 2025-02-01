@@ -26,16 +26,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>06/02/2025</td> <td>2</td> <td>2</td> <td>1</td> <td>MCUA (velocidad tangencial y angular)</td>
 	</tr>
 	<tr>
-		<td>10/02/2025</td> <td>2</td> <td>3</td> <td>2</td> <td>FESTIVO</td>
+		<td>10/02/2025</td> <td>2</td> <td>3</td> <td>2</td> <td>Puente H (simulación)</td>
 	</tr>
 	<tr>
-		<td>13/02/2025</td> <td>2</td> <td>4</td> <td>2</td> <td>Puente H (simulación)</td>
+		<td>13/02/2025</td> <td>2</td> <td>4</td> <td>2</td> <td>Cinemática robot diferencial</td>
 	</tr>
 	<tr>
-		<td>17/02/2025</td> <td>2</td> <td>5</td> <td>3</td> <td>Cinemática robot diferencial</td>
+		<td>17/02/2025</td> <td>2</td> <td>5</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
 	</tr>
 	<tr>
-		<td>20/02/2025</td> <td>2</td> <td>6</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
+		<td>20/02/2025</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
 		<td>24/02/2025</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
@@ -113,7 +113,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>01/05/2025</td> <td>2</td> <td>24</td> <td>12</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>05/05/2025</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
+		<td>05/05/2025</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
     <tr>
 		<td>08/05/2025</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
@@ -134,7 +134,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>26/05/2025</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
 	</tr>
 	<tr>
-		<td>29/05/2025</td> <td>2</td> <td>32</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>29/05/2025</td> <td>2</td> <td>32</td> <td>16</td> <td>Retroalimentación del examen final y entrega de notas tercer corte</td>
 	</tr>
 
 </table>
@@ -152,16 +152,16 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>06/02/2025</td> <td>2</td> <td>2</td> <td>1</td> <td>MCUA (velocidad tangencial y angular)</td>
 	</tr>
 	<tr>
-		<td>12/02/2025</td> <td>2</td> <td>3</td> <td>2</td> <td>FESTIVO</td>
+		<td>12/02/2025</td> <td>2</td> <td>3</td> <td>2</td> <td>Puente H (simulación)</td>
 	</tr>
 	<tr>
-		<td>13/02/2025</td> <td>2</td> <td>4</td> <td>2</td> <td>Puente H (simulación)</td>
+		<td>13/02/2025</td> <td>2</td> <td>4</td> <td>2</td> <td>Cinemática robot diferencial</td>
 	</tr>
 	<tr>
-		<td>19/02/2025</td> <td>2</td> <td>5</td> <td>3</td> <td>Cinemática robot diferencial</td>
+		<td>19/02/2025</td> <td>2</td> <td>5</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
 	</tr>
 	<tr>
-		<td>20/02/2025</td> <td>2</td> <td>6</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
+		<td>20/02/2025</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
 		<td>26/02/2025</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
@@ -197,10 +197,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>20/03/2025</td> <td>2</td> <td>14</td> <td>7</td> <td>Análisis de recorrido</td>
 	</tr>
 	<tr>
-		<td>26/03/2025</td> <td>2</td> <td>15</td> <td>8</td> <td>FESTIVO</td>
+		<td>26/03/2025</td> <td>2</td> <td>15</td> <td>8</td> <td>COPPELIA SIM</td>
 	</tr>
     <tr>
-		<td>27/03/2025</td> <td>2</td> <td>16</td> <td>8</td> <td>COPPELIA SIM</td>
+		<td>27/03/2025</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
 		<td>02/04/2025</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
@@ -239,7 +239,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>01/05/2025</td> <td>2</td> <td>24</td> <td>12</td> <td>FESTIVO</td>
 	</tr><!--Finalización de clases-->
 	<tr>
-		<td>07/05/2025</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
+		<td>07/05/2025</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
     <tr>
 		<td>08/05/2025</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
@@ -260,12 +260,14 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>28/05/2025</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
 	</tr>
 	<tr>
-		<td>29/05/2025</td> <td>2</td> <td>32</td> <td>16</td> <td>Desarrollo y/o entrega de proyecto</td>
+		<td>29/05/2025</td> <td>2</td> <td>32</td> <td>16</td> <td>Retroalimentación del examen final y entrega de notas tercer corte</td>
 	</tr>
 
 </table>
 
 <h3>MÉTODOS DE EVALUACIÓN ✍️</h3>
+
+<h4>4AN</h4>
 
 <table>
 	<tr>
@@ -279,40 +281,91 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (20%)</td>
 		<td>Parcial</td>
 		<td>10%</td>
-		<td>28/08/2025</td>
+		<td>03/03/2025</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>10%</td>
-		<td>21/08/2025<br>22/08/2025</td>
+		<td>20/02/2025<br>24/02/2025<br>27/02/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>15%</td>
-		<td>02/10/2025</td>
+		<td>07/04/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>19/09/2025<br>25/09/2025<br>26/09/2025</td>
+		<td>31/03/2025<br>03/04/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (50%)</td>
 		<td>Examen final</td>
 		<td>15%</td>
-		<td>13/11/2025</td>
+		<td>26/05/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>30/10/2025<br>31/10/2025<br>06/11/2025<br>07/11/2025</td>
+		<td>05/05/2025<br>08/05/2025<br>12/05/2025<br>15/05/2025<br>19/05/2025<br>22/05/2025</td>
 	</tr>
     <tr>
 		<td>Proyecto</td>
 		<td>20%</td>
-		<td>14/11/2025</td>
+		<td>05/05/2025<br>08/05/2025<br>12/05/2025<br>15/05/2025<br>19/05/2025<br>22/05/2025</td>
+	</tr>
+</table>
+
+<h4>4BM</h4>
+
+<table>
+	<tr>
+		<td>Corte</td>
+		<td>Actividad</td>
+		<td>Porcentaje 💯</td>
+		<td>Fecha</td>
+		<td>Metodología</td>
+	</tr>
+	<tr>
+		<td rowspan="2">Primer (20%)</td>
+		<td>Parcial</td>
+		<td>10%</td>
+		<td>05/03/2025</td>
+		<td rowspan="7">Presencial</td>
+	</tr>
+	<tr>
+		<td>Quices y/o laboratorio</td>
+		<td>10%</td>
+		<td>20/02/2025<br>26/02/2025<br>27/02/2025</td>
+	</tr>
+	<tr>
+		<td rowspan="2">Segundo (30%)</td>
+		<td>Parcial</td>
+		<td>15%</td>
+		<td>09/04/2025</td>
+	</tr>
+	<tr>
+		<td>Quices y/o laboratorio</td>
+		<td>15%</td>
+		<td>27/03/2025<br>02/04/2025<br>03/04/2025</td>
+	</tr>
+	<tr>
+		<td rowspan="3">Tercer (50%)</td>
+		<td>Examen final</td>
+		<td>15%</td>
+		<td>28/05/2025</td>
+	</tr>
+	<tr>
+		<td>Quices y/o laboratorio</td>
+		<td>15%</td>
+		<td>07/05/2025<br>08/05/2025<br>14/05/2025<br>15/05/2025<br>21/05/2025<br>22/05/2025</td>
+	</tr>
+    <tr>
+		<td>Proyecto</td>
+		<td>20%</td>
+		<td>07/05/2025<br>08/05/2025<br>14/05/2025<br>15/05/2025<br>21/05/2025<br>22/05/2025</td>
 	</tr>
 </table>
 
