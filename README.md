@@ -146,19 +146,19 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>06/08/2025</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
     <tr>
-		<td>07/08/2025</td> <td>2</td> <td>2</td> <td>1</td> <td>MCUA (velocidad tangencial y angular)</td>
+		<td>07/08/2025</td> <td>2</td> <td>2</td> <td>1</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>13/08/2025</td> <td>2</td> <td>3</td> <td>2</td> <td>Puente H (simulación)</td>
+		<td>13/08/2025</td> <td>2</td> <td>3</td> <td>2</td> <td>MCUA (velocidad tangencial y angular)</td>
 	</tr>
 	<tr>
-		<td>14/08/2025</td> <td>2</td> <td>4</td> <td>2</td> <td>Cinemática robot diferencial</td>
+		<td>14/08/2025</td> <td>2</td> <td>4</td> <td>2</td> <td>Puente H (simulación)</td>
 	</tr>
 	<tr>
-		<td>20/08/2025</td> <td>2</td> <td>5</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
+		<td>20/08/2025</td> <td>2</td> <td>5</td> <td>3</td> <td>Cinemática robot diferencial</td>
 	</tr>
 	<tr>
-		<td>21/08/2025</td> <td>2</td> <td>6</td> <td>3</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+		<td>21/08/2025</td> <td>2</td> <td>6</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
 	</tr>
     <tr>
 		<td>27/08/2025</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
