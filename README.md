@@ -275,40 +275,40 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (20%)</td>
 		<td>Parcial</td>
 		<td>10%</td>
-		<td>03/03/2025</td>
+		<td>01/09/2025</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>10%</td>
-		<td>20/02/2025<br>24/02/2025<br>27/02/2025</td>
+		<td>28/08/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>15%</td>
-		<td>07/04/2025</td>
+		<td>06/10/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>31/03/2025<br>03/04/2025</td>
+		<td>25/09/2025<br>29/09/2025<br>02/10/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (50%)</td>
 		<td>Examen final</td>
 		<td>15%</td>
-		<td>26/05/2025</td>
+		<td>13/11/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>05/05/2025<br>08/05/2025<br>12/05/2025<br>15/05/2025<br>19/05/2025<br>22/05/2025</td>
+		<td>27/10/2025<br>30/10/2025<br>06/11/2025<br>10/11/2025</td>
 	</tr>
     <tr>
 		<td>Proyecto</td>
 		<td>20%</td>
-		<td>05/05/2025<br>08/05/2025<br>12/05/2025<br>15/05/2025<br>19/05/2025<br>22/05/2025</td>
+		<td>27/10/2025<br>30/10/2025<br>06/11/2025<br>10/11/2025</td>
 	</tr>
 </table>
 
@@ -326,40 +326,40 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="2">Primer (20%)</td>
 		<td>Parcial</td>
 		<td>10%</td>
-		<td>05/03/2025</td>
+		<td>03/09/2025</td>
 		<td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>10%</td>
-		<td>20/02/2025<br>26/02/2025<br>27/02/2025</td>
+		<td>27/08/2025<br>28/08/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="2">Segundo (30%)</td>
 		<td>Parcial</td>
 		<td>15%</td>
-		<td>09/04/2025</td>
+		<td>08/10/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>27/03/2025<br>02/04/2025<br>03/04/2025</td>
+		<td>25/09/2025<br>01/10/2025<br>02/10/2025</td>
 	</tr>
 	<tr>
 		<td rowspan="3">Tercer (50%)</td>
 		<td>Examen final</td>
 		<td>15%</td>
-		<td>28/05/2025</td>
+		<td>19/11/2025</td>
 	</tr>
 	<tr>
 		<td>Quices y/o laboratorio</td>
 		<td>15%</td>
-		<td>07/05/2025<br>08/05/2025<br>14/05/2025<br>15/05/2025<br>21/05/2025<br>22/05/2025</td>
+		<td>29/10/2025<br>30/10/2025<br>05/11/2025<br>06/11/2025<br>12/11/2025<br>13/11/2025</td>
 	</tr>
     <tr>
 		<td>Proyecto</td>
 		<td>20%</td>
-		<td>07/05/2025<br>08/05/2025<br>14/05/2025<br>15/05/2025<br>21/05/2025<br>22/05/2025</td>
+		<td>29/10/2025<br>30/10/2025<br>05/11/2025<br>06/11/2025<br>12/11/2025<br>13/11/2025</td>
 	</tr>
 </table>
 
