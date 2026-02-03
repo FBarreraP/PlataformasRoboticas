@@ -101,37 +101,37 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>13/10/2026</td> <td>2</td> <td>21</td> <td>11</td> <td>FESTIVO</td>
+		<td>20/04/2026</td> <td>2</td> <td>21</td> <td>11</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>16/10/2026</td> <td>2</td> <td>22</td> <td>11</td> <td>Avance de proyecto</td>
+		<td>23/04/2026</td> <td>2</td> <td>22</td> <td>11</td> <td>Avance de proyecto</td>
 	</tr>
 	<tr>
-		<td>20/10/2026<br>23/10/2026</td> <td>2<br>2</td> <td>23<br>24</td> <td>12</td> <td>CONGRESO DE INGENIERÍA ECCI</td>
+		<td>27/04/2026<br>23/10/2026</td> <td>2<br>2</td> <td>23<br>24</td> <td>12</td> <td>CONGRESO DE INGENIERÍA ECCI</td>
 	</tr>
 	<tr>
-		<td>27/10/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
+		<td>30/04/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
 	</tr>
     <tr>
-		<td>30/10/2026</td> <td>2</td> <td>26</td> <td>13</td> <td>CAD (SolidWorks)</td>
+		<td>04/05/2026</td> <td>2</td> <td>26</td> <td>13</td> <td>CAD (SolidWorks)</td>
 	</tr>
     <tr>
-		<td>03/11/2026</td> <td>2</td> <td>27</td> <td>14</td> <td>FESTIVO</td>
+		<td>07/05/2026</td> <td>2</td> <td>27</td> <td>14</td> <td>FESTIVO</td>
 	</tr>
     <tr>
-		<td>06/11/2026</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
+		<td>11/05/2026</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
     <tr>
-		<td>10/11/2026</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
+		<td>14/05/2026</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
 	</tr>
     <tr>
-		<td>13/11/2026</td> <td>2</td> <td>30</td> <td>15</td> <td>Examen final</td>
+		<td>18/05/2026</td> <td>2</td> <td>30</td> <td>15</td> <td>FESTIVO</td>
 	</tr>
     <tr>
-		<td>17/11/2026</td> <td>2</td> <td>31</td> <td>16</td> <td>FESTIVO</td>
+		<td>21/05/2026</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
 	</tr>
 	<tr>
-		<td>20/11/2026</td> <td>2</td> <td>32</td> <td>16</td> <td>Retroalimentación del examen final y entrega de notas tercer corte</td>
+		<td>25/05/2026</td> <td>2</td> <td>32</td> <td>16</td> <td>Retroalimentación del examen final y entrega de notas tercer corte</td>
 	</tr>
 
 </table>
