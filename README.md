@@ -101,22 +101,22 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>20/04/2026</td> <td>2</td> <td>21</td> <td>11</td> <td>FESTIVO</td>
+		<td>20/04/2026</td> <td>2</td> <td>21</td> <td>11</td> <td>Avance de proyecto</td>
 	</tr>
 	<tr>
-		<td>23/04/2026</td> <td>2</td> <td>22</td> <td>11</td> <td>Avance de proyecto</td>
+		<td>23/04/2026</td> <td>2</td> <td>22</td> <td>11</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
 	</tr>
 	<tr>
-		<td>27/04/2026<br>23/10/2026</td> <td>2<br>2</td> <td>23<br>24</td> <td>12</td> <td>CONGRESO DE INGENIERÍA ECCI</td>
+		<td>27/04/2026</td> <td>2<br>2</td> <td>23<br>24</td> <td>12</td> <td>CAD (SolidWorks)</td>
 	</tr>
 	<tr>
-		<td>30/04/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
+		<td>30/04/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
     <tr>
-		<td>04/05/2026</td> <td>2</td> <td>26</td> <td>13</td> <td>CAD (SolidWorks)</td>
+		<td>04/05/2026</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
     <tr>
-		<td>07/05/2026</td> <td>2</td> <td>27</td> <td>14</td> <td>FESTIVO</td>
+		<td>07/05/2026</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
     <tr>
 		<td>11/05/2026</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
