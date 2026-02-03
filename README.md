@@ -143,34 +143,34 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>06/08/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
+		<td>04/02/2026</td> <td>2</td> <td>1</td> <td>1</td> <td>Presentación de la materia</td>
 	</tr>
     <tr>
-		<td>07/08/2026</td> <td>2</td> <td>2</td> <td>1</td> <td>FESTIVO</td>
+		<td>05/02/2026</td> <td>2</td> <td>2</td> <td>1</td> <td>FESTIVO</td>
 	</tr>
 	<tr>
-		<td>13/08/2026</td> <td>2</td> <td>3</td> <td>2</td> <td>MCUA (velocidad tangencial y angular)</td>
+		<td>11/02/2026</td> <td>2</td> <td>3</td> <td>2</td> <td>MCUA (velocidad tangencial y angular)</td>
 	</tr>
 	<tr>
-		<td>14/08/2026</td> <td>2</td> <td>4</td> <td>2</td> <td>Puente H (simulación)</td>
+		<td>12/02/2026</td> <td>2</td> <td>4</td> <td>2</td> <td>Puente H (simulación)</td>
 	</tr>
 	<tr>
-		<td>20/08/2026</td> <td>2</td> <td>5</td> <td>3</td> <td>Cinemática robot diferencial</td>
+		<td>18/02/2026</td> <td>2</td> <td>5</td> <td>3</td> <td>Cinemática robot diferencial</td>
 	</tr>
 	<tr>
-		<td>21/08/2026</td> <td>2</td> <td>6</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
+		<td>19/02/2026</td> <td>2</td> <td>6</td> <td>3</td> <td>Análisis de recorrido por transiciones</td>
 	</tr>
     <tr>
-		<td>27/08/2026</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+		<td>25/02/2026</td> <td>2</td> <td>7</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
-		<td>28/08/2026</td> <td>2</td> <td>8</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+		<td>26/02/2026</td> <td>2</td> <td>8</td> <td>4</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
 	<tr>
-		<td>03/09/2026</td> <td>2</td> <td>9</td> <td>5</td> <td>Parcial primer corte</td>
+		<td>04/03/2026</td> <td>2</td> <td>9</td> <td>5</td> <td>Parcial primer corte</td>
 	</tr><!--semana de parciales del primer corte-->
 	<tr>
-		<td>04/09/2026</td> <td>2</td> <td>10</td> <td>5</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte</td>
+		<td>05/03/2026</td> <td>2</td> <td>10</td> <td>5</td> <td>Retroalimentación del parcial primer corte y entrega de notas primer corte</td>
 	</tr><!--semana de registro de notas del primer corte-->
 
 </table>
@@ -182,34 +182,37 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>10/09/2026</td> <td>2</td> <td>11</td> <td>6</td> <td>Propuesta de proyecto</td>
+		<td>11/03/2026</td> <td>2</td> <td>11</td> <td>6</td> <td>Propuesta de proyecto</td>
 	</tr>
 	<tr>
-		<td>11/09/2026</td> <td>2</td> <td>12</td> <td>6</td> <td>Comunicación serial UART (Bluetooth – PIC (Proteus))</td>
+		<td>12/03/2026</td> <td>2</td> <td>12</td> <td>6</td> <td>Comunicación serial UART (Bluetooth – PIC (Proteus))</td>
 	</tr>
 	<tr>
-		<td>17/09/2026</td> <td>2</td> <td>13</td> <td>7</td> <td>Encoder (absoluto y relativo)</td>
+		<td>18/03/2026</td> <td>2</td> <td>13</td> <td>7</td> <td>Encoder (absoluto y relativo)</td>
 	</tr>
 	<tr>
-		<td>18/09/2026</td> <td>2</td> <td>14</td> <td>7</td> <td>Análisis de recorrido</td>
+		<td>19/03/2026</td> <td>2</td> <td>14</td> <td>7</td> <td>Análisis de recorrido</td>
 	</tr>
 	<tr>
-		<td>24/09/2026</td> <td>2</td> <td>15</td> <td>8</td> <td>COPPELIA SIM</td>
+		<td>25/03/2026</td> <td>2</td> <td>15</td> <td>8</td> <td>COPPELIA SIM</td>
 	</tr>
     <tr>
-		<td>25/09/2026</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+		<td>26/03/2026</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+	</tr>
+	<tr>
+		<td>01/04/2026<br>02/04/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
     <tr>
-		<td>01/10/2026</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+		<td>08/04/2026</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
-		<td>02/10/2026</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+		<td>09/04/2026</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
-		<td>08/10/2026</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
+		<td>15/04/2026</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>09/10/2026</td> <td>2</td> <td>20</td> <td>10</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
+		<td>16/04/2026</td> <td>2</td> <td>20</td> <td>10</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
 	</tr><!--semana de registro de notas del segundo corte-->
 
 </table>
@@ -221,37 +224,40 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>15/10/2026</td> <td>2</td> <td>21</td> <td>11</td> <td>Avance de proyecto</td>
+		<td>22/04/2026</td> <td>2</td> <td>21</td> <td>11</td> <td>Avance de proyecto</td>
 	</tr>
 	<tr>
-		<td>16/10/2026</td> <td>2</td> <td>22</td> <td>11</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
+		<td>23/04/2026</td> <td>2</td> <td>22</td> <td>11</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
 	</tr>
 	<tr>
-		<td>22/10/2026<br>23/10/2026</td> <td>2<br>2</td> <td>23<br>24</td> <td>12</td> <td>CONGRESO DE INGENIERÍA ECCI</td>
+		<td>29/04/2026</td> <td>2</td> <td>23</td> <td>12</td> <td>CAD (SolidWorks)</td>
 	</tr>
 	<tr>
-		<td>29/10/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>CAD (SolidWorks)</td>
-	</tr>
-    <tr>
-		<td>30/10/2026</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
-	</tr>
-    <tr>
-		<td>05/11/2026</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
-	</tr>
-    <tr>
-		<td>06/11/2026</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
-	</tr>
-    <tr>
-		<td>12/11/2026</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
-	</tr>
-    <tr>
-		<td>13/11/2026</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
-	</tr>
-    <tr>
-		<td>19/11/2026</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
+		<td>30/04/2026</td> <td>2</td> <td>24</td> <td>12</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
 	<tr>
-		<td>20/11/2026</td> <td>2</td> <td>32</td> <td>16</td> <td>Retroalimentación del examen final y entrega de notas tercer corte</td>
+		<td>06/05/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
+	</tr>
+    <tr>
+		<td>07/05/2026</td> <td>2</td> <td>26</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
+	</tr>
+    <tr>
+		<td>13/05/2026</td> <td>2</td> <td>27</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
+	</tr>
+    <tr>
+		<td>14/05/2026</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
+	</tr>
+    <tr>
+		<td>20/05/2026</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
+	</tr>
+    <tr>
+		<td>21/05/2026</td> <td>2</td> <td>30</td> <td>15</td> <td>Desarrollo y/o entrega de Laboratorio y proyecto</td>
+	</tr>
+    <tr>
+		<td>27/05/2026</td> <td>2</td> <td>31</td> <td>16</td> <td>Examen final</td>
+	</tr>
+	<tr>
+		<td>28/05/2026</td> <td>2</td> <td>32</td> <td>16</td> <td>Retroalimentación del examen final y entrega de notas tercer corte</td>
 	</tr>
 
 </table>
@@ -262,50 +268,29 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <table>
 	<tr>
-		<td>Corte</td>
-		<td>Actividad</td>
-		<td>Porcentaje 💯</td>
-		<td>Fecha</td>
-		<td>Metodología</td>
+		<td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (20%)</td>
-		<td>Parcial</td>
-		<td>10%</td>
-		<td>01/09/2026</td>
-		<td rowspan="7">Presencial</td>
+		<td rowspan="2">Primer (20%)</td> <td>Parcial</td> <td>10%</td> <td>01/09/2026</td> <td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td>
-		<td>10%</td>
-		<td>28/08/2026</td>
+		<td>Quices y/o laboratorio</td> <td>10%</td> <td>28/08/2026</td> 
 	</tr>
 	<tr>
-		<td rowspan="2">Segundo (30%)</td>
-		<td>Parcial</td>
-		<td>15%</td>
-		<td>06/10/2026</td>
+		<td rowspan="2">Segundo (30%)</td> <td>Parcial</td> <td>15%</td> <td>06/10/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td>
-		<td>15%</td>
-		<td>25/09/2026<br>29/09/2026<br>02/10/2026</td>
+		<td>Quices y/o laboratorio</td> <td>15%</td> <td>25/09/2026<br>29/09/2026<br>02/10/2026</td>
 	</tr>
 	<tr>
-		<td rowspan="3">Tercer (50%)</td>
-		<td>Examen final</td>
-		<td>15%</td>
+		<td rowspan="3">Tercer (50%)</td> <td>Examen final</td> <td>15%</td>
 		<td>13/11/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td>
-		<td>15%</td>
-		<td>06/11/2026<br>10/11/2026</td>
+		<td>Quices y/o laboratorio</td> <td>15%</td> <td>06/11/2026<br>10/11/2026</td>
 	</tr>
     <tr>
-		<td>Proyecto</td>
-		<td>20%</td>
-		<td>06/11/2026<br>10/11/2026</td>
+		<td>Proyecto</td> <td>20%</td> <td>06/11/2026<br>10/11/2026</td>
 	</tr>
 </table>
 
@@ -313,50 +298,29 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 
 <table>
 	<tr>
-		<td>Corte</td>
-		<td>Actividad</td>
-		<td>Porcentaje 💯</td>
-		<td>Fecha</td>
-		<td>Metodología</td>
+		<td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (20%)</td>
-		<td>Parcial</td>
-		<td>10%</td>
-		<td>03/09/2026</td>
-		<td rowspan="7">Presencial</td>
+		<td rowspan="2">Primer (20%)</td> <td>Parcial</td> <td>10%</td> <td>01/09/2026</td> <td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td>
-		<td>10%</td>
-		<td>27/08/2026<br>28/08/2026</td>
+		<td>Quices y/o laboratorio</td> <td>10%</td> <td>28/08/2026</td> 
 	</tr>
 	<tr>
-		<td rowspan="2">Segundo (30%)</td>
-		<td>Parcial</td>
-		<td>15%</td>
-		<td>08/10/2026</td>
+		<td rowspan="2">Segundo (30%)</td> <td>Parcial</td> <td>15%</td> <td>06/10/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td>
-		<td>15%</td>
-		<td>25/09/2026<br>01/10/2026<br>02/10/2026</td>
+		<td>Quices y/o laboratorio</td> <td>15%</td> <td>25/09/2026<br>29/09/2026<br>02/10/2026</td>
 	</tr>
 	<tr>
-		<td rowspan="3">Tercer (50%)</td>
-		<td>Examen final</td>
-		<td>15%</td>
-		<td>19/11/2026</td>
+		<td rowspan="3">Tercer (50%)</td> <td>Examen final</td> <td>15%</td>
+		<td>13/11/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td>
-		<td>15%</td>
-		<td>30/10/2026<br>05/11/2026<br>06/11/2026<br>12/11/2026<br>13/11/2026</td>
+		<td>Quices y/o laboratorio</td> <td>15%</td> <td>06/11/2026<br>10/11/2026</td>
 	</tr>
     <tr>
-		<td>Proyecto</td>
-		<td>20%</td>
-		<td>30/10/2026<br>05/11/2026<br>06/11/2026<br>12/11/2026<br>13/11/2026</td>
+		<td>Proyecto</td> <td>20%</td> <td>06/11/2026<br>10/11/2026</td>
 	</tr>
 </table>
 
