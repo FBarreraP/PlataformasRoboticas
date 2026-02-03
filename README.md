@@ -107,10 +107,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>23/04/2026</td> <td>2</td> <td>22</td> <td>11</td> <td>Sensor infrarrojo, ultrasonido y sensor de color</td>
 	</tr>
 	<tr>
-		<td>27/04/2026</td> <td>2<br>2</td> <td>24</td> <td>12</td> <td>CAD (SolidWorks)</td>
+		<td>27/04/2026</td> <td>2</td> <td>24</td> <td>12</td> <td>CAD (SolidWorks)</td>
 	</tr>
 	<tr>
-		<td>30/04/2026</td> <td>2<br>2</td> <td>24</td> <td>12</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
+		<td>30/04/2026</td> <td>2</td> <td>24</td> <td>12</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
 	<tr>
 		<td>04/05/2026</td> <td>2</td> <td>25</td> <td>13</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
@@ -289,10 +289,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="3">Tercer (50%)</td> <td>Examen final</td> <td>15%</td> <td>21/05/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td> <td>15%</td> <td>30/04/2026<br>04/05/2026<br>07/05/2026<br>11/05/2026<br>14/05/2026</td>
+		<td>Quices y/o laboratorio</td> <td>15%</td> <td>30/04/2026<br>04/05/2026<br>07/05/2026<br>11/05/2026<br>14/05/2026<br>21/05/2026</td>
 	</tr>
     <tr>
-		<td>Proyecto</td> <td>20%</td> <td>30/04/2026<br>04/05/2026<br>07/05/2026<br>11/05/2026<br>14/05/2026</td>
+		<td>Proyecto</td> <td>20%</td> <td>30/04/2026<br>04/05/2026<br>07/05/2026<br>11/05/2026<br>14/05/2026<br>21/05/2026</td>
 	</tr>
 </table>
 
