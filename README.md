@@ -59,34 +59,37 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Fecha</td> <td>Horas</td> <td>Clase</td> <td>Semana</td> <td>Actividades</td>
 	</tr>
 	<tr>
-		<td>08/09/2026</td> <td>2</td> <td>11</td> <td>6</td> <td>Propuesta de proyecto</td>
+		<td>09/03/2026</td> <td>2</td> <td>11</td> <td>6</td> <td>Propuesta de proyecto</td>
 	</tr>
 	<tr>
-		<td>11/09/2026</td> <td>2</td> <td>12</td> <td>6</td> <td>Comunicación serial UART (Bluetooth – PIC (Proteus))</td>
+		<td>12/03/2026</td> <td>2</td> <td>12</td> <td>6</td> <td>Comunicación serial UART (Bluetooth – PIC (Proteus))</td>
 	</tr>
 	<tr>
-		<td>15/03/2026</td> <td>2</td> <td>13</td> <td>7</td> <td>Encoder (absoluto y relativo)</td>
+		<td>16/03/2026</td> <td>2</td> <td>13</td> <td>7</td> <td>Encoder (absoluto y relativo)</td>
 	</tr>
 	<tr>
-		<td>18/03/2026</td> <td>2</td> <td>14</td> <td>7</td> <td>Análisis de recorrido</td>
+		<td>19/03/2026</td> <td>2</td> <td>14</td> <td>7</td> <td>Análisis de recorrido</td>
 	</tr>
 	<tr>
-		<td>22/09/2026</td> <td>2</td> <td>15</td> <td>8</td> <td>COPPELIA SIM</td>
+		<td>23/03/2026</td> <td>2</td> <td>15</td> <td>8</td> <td>FESTIVO</td>
 	</tr>
     <tr>
-		<td>25/09/2026</td> <td>2</td> <td>16</td> <td>8</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+		<td>26/03/2026</td> <td>2</td> <td>16</td> <td>8</td> <td>COPPELIA SIM</td>
+	</tr>
+	<tr>
+		<td>30/03/2026<br>02/04/2026</td> <td></td> <td></td> <td></td> <td>SEMANA SANTA</td>
 	</tr>
     <tr>
-		<td>29/09/2026</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+		<td>06/04/2026</td> <td>2</td> <td>17</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
-		<td>02/10/2026</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
+		<td>09/04/2026</td> <td>2</td> <td>18</td> <td>9</td> <td>Desarrollo y/o entrega de Laboratorio</td>
 	</tr>
     <tr>
-		<td>06/10/2026</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
+		<td>13/04/2026</td> <td>2</td> <td>19</td> <td>10</td> <td>Parcial segundo corte</td>
 	</tr><!--semana de parciales del segundo corte-->
 	<tr>
-		<td>09/10/2026</td> <td>2</td> <td>20</td> <td>10</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
+		<td>16/04/2026</td> <td>2</td> <td>20</td> <td>10</td> <td>Retroalimentación del parcial segundo corte y entrega de notas segundo corte</td>
 	</tr><!--semana de registro de notas del segundo corte-->
 
 </table>
