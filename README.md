@@ -303,25 +303,25 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>Corte</td> <td>Actividad</td> <td>Porcentaje 💯</td> <td>Fecha</td> <td>Metodología</td>
 	</tr>
 	<tr>
-		<td rowspan="2">Primer (20%)</td> <td>Parcial</td> <td>10%</td> <td>04/03/2026</td> <td rowspan="7">Presencial</td>
+		<td rowspan="2">Primer (33%)</td> <td>Parcial</td> <td>16.5%</td> <td>04/03/2026</td> <td rowspan="7">Presencial</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td> <td>10%</td> <td>19/02/2026<br>25/02/2026<br>26/02/2026</td> 
+		<td>Quices y/o laboratorio</td> <td>16.5%</td> <td>19/02/2026<br>25/02/2026<br>26/02/2026</td> 
 	</tr>
 	<tr>
-		<td rowspan="2">Segundo (30%)</td> <td>Parcial</td> <td>15%</td> <td>15/04/2026</td>
+		<td rowspan="2">Segundo (33%)</td> <td>Parcial</td> <td>16.5%</td> <td>15/04/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td> <td>15%</td> <td>26/03/2026<br>08/04/2026<br>09/04/2026</td>
+		<td>Quices y/o laboratorio</td> <td>16.5%</td> <td>26/03/2026<br>08/04/2026<br>09/04/2026</td>
 	</tr>
 	<tr>
-		<td rowspan="3">Tercer (50%)</td> <td>Examen final</td> <td>15%</td> <td>27/05/2026</td>
+		<td rowspan="3">Tercer (34%)</td> <td>Examen final</td> <td>10%</td> <td>27/05/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td> <td>15%</td> <td>30/04/2026<br>06/05/2026<br>07/05/2026<br>13/05/2026<br>14/05/2026<br>20/05/2026<br>21/05/2026</td>
+		<td>Quices y/o laboratorio</td> <td>9%</td> <td>30/04/2026<br>06/05/2026<br>07/05/2026<br>13/05/2026<br>14/05/2026<br>20/05/2026<br>21/05/2026</td>
 	</tr>
     <tr>
-		<td>Proyecto</td> <td>20%</td> <td>30/04/2026<br>06/05/2026<br>07/05/2026<br>13/05/2026<br>14/05/2026<br>20/05/2026<br>21/05/2026</td>
+		<td>Proyecto</td> <td>15%</td> <td>30/04/2026<br>06/05/2026<br>07/05/2026<br>13/05/2026<br>14/05/2026<br>20/05/2026<br>21/05/2026</td>
 	</tr>
 </table>
 
