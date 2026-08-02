@@ -175,6 +175,7 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
 		<li> Inicio de clases: Quince (15) minutos después de la hora inicial definida de la clase y el control de asistencia se realiza a cada inicio de clase ⌚</li>
 		<li> Fin de clases: Quince (15) minutos antes de la hora final definida de la clase ⏱️</li>
 		<li> Respeto en clase 🤝</li>
+		<li> Seguir el conducto regular (profesor, gestor, director, etc.) 📢</li>
 		<li> No presto mi computador para presentar laboratorios, talleres y/o proyectos 🤦‍♂️</li>
 		<li> Prohibido el uso de celular en quices, parciales y clase 📵</li>
 		<li> Permitidas las salidas al baño 🚻 y a recibir llamadas 📲, en los quices y parciales se debe dejar el celular en el puesto para salir al baño</li>
