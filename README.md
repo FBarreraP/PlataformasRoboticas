@@ -239,8 +239,12 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
     <img src="https://cdn.awsli.com.br/400x400/468/468162/produto/19414377c73c1c655d.jpg" alt="lcd 16x2" caption="Hola"/>
     <li> Sensor ultrasónico HC-SR04</li>
     <img src="https://ferretronica.com/cdn/shop/products/sensor_ultrasonico_HC_-_SR04_de_distancia_ultrasonido_hc-sr04_ferretronica_x700.jpg?v=1577502249" alt="HC-SR04" caption="Hola"/>
-    <li> Puente H (L298/L293)</li>
-	<img src="image.png" alt="Puente H" caption="Hola"/>
+    <li> Puente H (L298)</li>
+		<div align="center">
+		<img src="image.png" alt="Puente H" width="300"/>
+		<br>
+		<figcaption>Fuente: https://megatronica.cc/producto/modulo-puente-h-l298-l298n-2a-robot-driver-motor/</figcaption>
+	</div>
     <li> Encoder incremental</li>
     <img src="https://http2.mlstatic.com/D_NQ_NP_731207-MEC31981852736_082019-O.webp" alt="encoder arduino" caption="Hola"/>
 </ul>
