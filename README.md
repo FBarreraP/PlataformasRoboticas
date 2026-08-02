@@ -240,7 +240,7 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
     <li> Sensor ultrasónico HC-SR04</li>
     <img src="https://ferretronica.com/cdn/shop/products/sensor_ultrasonico_HC_-_SR04_de_distancia_ultrasonido_hc-sr04_ferretronica_x700.jpg?v=1577502249" alt="HC-SR04" caption="Hola"/>
     <li> Puente H (L298/L293)</li>
-    <img src="https://www.ardobot.co/pub/media/catalog/product/cache/2641e33458f1ae4a696b47b0da974426/l/2/l2998neco.jpg" alt="L298" caption="Hola"/>
+	<img src="image.png" alt="Puente H" caption="Hola"/>
     <li> Encoder incremental</li>
     <img src="https://http2.mlstatic.com/D_NQ_NP_731207-MEC31981852736_082019-O.webp" alt="encoder arduino" caption="Hola"/>
 </ul>
