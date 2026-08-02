@@ -217,7 +217,11 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
     <li> COPPELIA sim</li>
 	<li> PIC o Arduino</li>
 	<img src="https://www.servotronik.com.co/wp-content/uploads/2019/07/PIC18F4550-1.jpg" alt="PIC18F4550" caption="Hola"/>
-    <img src="https://www.makerhero.com/wp-content/uploads/2017/07/1AC01-9-1-min.jpeg" alt="Arduino" caption="Hola"/>
+    <div align="center">
+		<img src="image-5.png" width="500" alt="PIC18F4550"/>
+		<br>
+		<figcaption>Fuente: https://robukits.in/product/742/pic18f4550-microcontroller-high-performance-8-bit-mcu-with-usb-interface</figcaption>
+	</div>
 	<li> Plataforma diferencial</li>
     <img src="https://down-id.img.susercontent.com/file/4707898d5ce46da11955f0269f3f5468" alt="plataforma diferencial" caption="Hola"/>
 	<li> Motoreductor DC</li>
