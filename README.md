@@ -220,18 +220,34 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
     <img src="https://www.makerhero.com/wp-content/uploads/2017/07/1AC01-9-1-min.jpeg" alt="Arduino" caption="Hola"/>
 	<li> Plataforma diferencial</li>
     <img src="https://down-id.img.susercontent.com/file/4707898d5ce46da11955f0269f3f5468" alt="plataforma diferencial" caption="Hola"/>
-	 <li> Motoreductor DC</li>
-    <img src="https://static.wixstatic.com/media/d96bda_8b8831ef4e0541c1839ac31ecdd8241e~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d96bda_8b8831ef4e0541c1839ac31ecdd8241e~mv2.png" alt="motoreductor" caption="Hola"/>
-	<img src="https://3dbots.co/wp-content/uploads/2023/05/LUXURY-TIRE.jpg" alt="motoreductor" caption="Hola"/>
+	<li> Motoreductor DC</li>
+	<div align="center">
+		<img src="image-3.png" width="500" alt="Motoreductor DC con encoder"/>
+		<br>
+		<figcaption>Fuente: https://www.electric-b2c.com/products/65mm-85mm-130mm-wheel-hub-motor-kit-encode-wheel-motor</figcaption>
+	</div>
+	<div align="center">
+		<img src="image-4.png" width="500" alt="Motoreductor DC con encoder"/>
+		<br>
+		<figcaption>Fuente: https://www.haljia.com/products/haljia-4pcs-dc-drive-gear-motor-dual-shaft-and-tire-wheel-for-dc-3v-6v-smart-car-robot-projects-compatible-with-arduino</figcaption>
+	</div>
     <li> Fuentes de alimentación</li>
     <img src="https://cdnx.jumpseller.com/mactornica/image/9804941/1.jpg?1653696069" alt="Fuente AMS1117" caption="Hola"/>
-    <li> Multimetro</li>
-    <img src="https://electronicasannicolas.com.co/wp-content/uploads/2022/03/MULTIMETRO-DIGITAL-UT33C-UNIT-3641.png" alt="Multimetro UNI-T" caption="Hola"/>
+   	<li> Multímetro</li>
+	<div align="center">
+		<img src="image-2.png" width="500" alt="Multímetro"/>
+		<br>
+		<figcaption>Fuente: https://radiomecano.com.ar/Instrumentos-de-Medicion/90-0223260_TESTER-UNI-T-UT-33C-DIGITAL-CTEMPERATURA.html</figcaption>
+	</div>
     <li> Leds, resistencias, pulsadores, cables, protoboard</li>
     <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9gkrJHsEK9MCYNnJTZklwsNtW58ZzmrtdPMma9dXKXkLdYbt1PkHeGMi5cwDLLlRiOng2ozwdsB60QtZNCQF4hc3WUnPT6rx9HmCUAt1KuATjyJY9bNNWRA&usqp=CAE" alt="kit de protoboard" caption="Hola"/>
     <li> Potenciómetro</li>
-    <img src="https://curtocircuito.com.br/pub/media/catalog/product/cache/ebf77fb58d795a2dbe3218c301c821c6/p/o/potenci_metro_linear_-_1m_-_l20_2_.jpg" alt="potenciometro" caption="Hola"/>
-    <li> Fotoresistencia</li>
+    <div align="center">
+		<img src="image-1.png" alt="Potenciómetro" width="400"/>
+		<br>
+		<figcaption>Fuente: https://www.mercadolivre.com.br/potenciometro-linear-1m--l20/up/MLBU1478983095</figcaption>
+	</div>	
+	<li> Fotoresistencia</li>
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZMUgeeo_cD2X8ee0ldjF5oU2SK4IW-KIQ3qScgyX5VK-_nQKHIE7Nib3CWr0sns62JKbOmdY8DN4W7E6B6e69yUVtN9VqbfuQeoyVlv2DGlseWsc8h-ZgHh7Zn-HDrUTszr-FQdiEFW7nGhOPSjDTN6egELeqlyI8VwM_8mrX0z7WUQcaFnW_AAHh5Q/s499/ldr-5mm-fvml.jpg" alt="fotoresistencia" caption="Hola"/>
     <li> CNY70</li>
     <img src="https://sumador.com/cdn/shop/products/SensorreflectivoCNY70-min_1_2048x2048.jpg?v=1589119003" alt="cny70" caption="Hola"/>
@@ -240,8 +256,8 @@ Nota del curso = (0.2)*NotaCorte1 + (0.3)*NotaCorte2 + (0.5)*NotaCorte3
     <li> Sensor ultrasónico HC-SR04</li>
     <img src="https://ferretronica.com/cdn/shop/products/sensor_ultrasonico_HC_-_SR04_de_distancia_ultrasonido_hc-sr04_ferretronica_x700.jpg?v=1577502249" alt="HC-SR04" caption="Hola"/>
     <li> Puente H (L298)</li>
-		<div align="center">
-		<img src="image.png" alt="Puente H" width="300"/>
+	<div align="center">
+		<img src="image.png" alt="Puente H" width="400"/>
 		<br>
 		<figcaption>Fuente: https://megatronica.cc/producto/modulo-puente-h-l298-l298n-2a-robot-driver-motor/</figcaption>
 	</div>
