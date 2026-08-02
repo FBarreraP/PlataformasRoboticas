@@ -122,7 +122,7 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td>04/11/2026</td> <td>2</td> <td>28</td> <td>14</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
     <tr>
-		<td>09/11/2026</td> <td>2</td> <td>29</td> <td>15</td> <td>FESTIVO</td>
+		<td>09/11/2026</td> <td>2</td> <td>29</td> <td>15</td> <td>Desarrollo y/o entrega de Laboratorio y/o proyecto</td>
 	</tr>
     <tr>
 		<td>11/11/2026</td> <td>2</td> <td>30</td> <td>15</td> <td>Examen final</td>
@@ -159,10 +159,10 @@ En esta clase se presenta la materia, en cuanto al contenido temático, los mét
 		<td rowspan="3">Tercer (34%)</td> <td>Examen final</td> <td>10%</td> <td>11/11/2026</td>
 	</tr>
 	<tr>
-		<td>Quices y/o laboratorio</td> <td>9%</td> <td>26/10/2026<br>28/10/2026<br>04/11/2026</td>
+		<td>Quices y/o laboratorio</td> <td>9%</td> <td>26/10/2026<br>28/10/2026<br>04/11/2026<br>09/11/2026</td>
 	</tr>
     <tr>
-		<td>Proyecto</td> <td>15%</td> <td>26/10/2026<br>28/10/2026<br>04/11/2026</td>
+		<td>Proyecto</td> <td>15%</td> <td>26/10/2026<br>28/10/2026<br>04/11/2026<br>09/11/2026</td>
 	</tr>
 </table>
 
